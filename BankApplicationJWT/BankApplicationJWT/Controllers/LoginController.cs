@@ -1,5 +1,6 @@
 ﻿using BankApplicationJWT.Bo;
 using BankApplicationJWT.Data;
+using BankApplicationJWT.DTO;
 using BankApplicationJWT.Entity;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Identity.Data;
@@ -18,19 +19,25 @@ namespace BankApplicationJWT.Controllers
         private readonly string _jwtKey;
         private readonly string _jwtIssuer;
         private readonly UserBo _userBo;
+        private readonly UserDTO userDTO;
 
-        public LoginController(AppDbContext context, IConfiguration configuration, UserBo userBo)
+        public LoginController(AppDbContext context, IConfiguration configuration, UserBo userBo,UserDTO userDTO)
         {
             _jwtKey = configuration["Jwt:Key"]!;
             _jwtIssuer = configuration["Jwt:Issuer"]!;
             _userBo = userBo;
+            this.userDTO = userDTO;
         }
 
         [HttpPost("register")]
-        public IActionResult Register([FromBody] User user)
+        public IActionResult Register([FromBody] UserDTO userDTO)
         {
             try
             {
+                User user =new User();
+                user.UserName = userDTO.UserName;
+                user.Password = userDTO.Password;
+                user.UserEmail = userDTO.UserEmail;
                 string resmsg = _userBo.addUser(user);
                 return Ok(resmsg);
             }

@@ -1,5 +1,6 @@
 ﻿using BankApplicationJWT.Bo;
 using BankApplicationJWT.Data;
+using BankApplicationJWT.DTO;
 using BankApplicationJWT.Entity;
 using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Http;
@@ -15,6 +16,7 @@ namespace BankApplicationJWT.Controllers
     {
         private readonly AppDbContext _context;
         private readonly BankBo _bankBo;
+        private readonly BankDTO _bankDTO;
 
         public BankController(AppDbContext context,BankBo bankBo)
         {
@@ -23,10 +25,14 @@ namespace BankApplicationJWT.Controllers
         }
 
         [HttpPost("create-account")]
-        public IActionResult CreateAccount([FromBody] Bank bank)
+        public IActionResult CreateAccount([FromBody] BankDTO bankDTO)
         {
             try
             {
+                Bank bank = new Bank();
+                bank.AccountNumber = bankDTO.AccountNumber;
+                bank.Amount = bankDTO.Amount;
+                bank.UserId = bankDTO.UserId;
                 // Extract UserId from JWT token
                 var userIdFromToken = int.Parse(User.FindFirst(ClaimTypes.NameIdentifier)?.Value);
 
@@ -43,20 +49,6 @@ namespace BankApplicationJWT.Controllers
             {
                 return BadRequest(ex.Message);
             }
-
-            //var user = _context.Users.Find(bank.UserId);
-            //if (user == null)
-            //    return NotFound("User not found.");
-
-            //// Check if the user already has a bank account
-            //if (_context.Banks.Any(b => b.UserId == bank.UserId))
-            //    return BadRequest("User already has a bank account.");
-
-            //// Add the new bank account to the database
-            //_context.Banks.Add(bank);
-            //_context.SaveChanges();
-
-            //return Ok(new { Message = "Bank account created successfully." });
         }
 
         [HttpGet("account/{userId}")]
@@ -72,7 +64,11 @@ namespace BankApplicationJWT.Controllers
                     return Forbid("You are not authorized to view another user's account.");
 
                 Bank resBank = _bankBo.findByUserId(userId);
-                return Ok(resBank);
+                BankDTO bank = new BankDTO();
+                bank.UserId=resBank.UserId;
+                bank.Amount = resBank.Amount;
+                bank.AccountNumber=resBank.AccountNumber;
+                return Ok(bank);
             }
             catch (Exception ex) {
                 return BadRequest(ex.Message);
@@ -91,20 +87,6 @@ namespace BankApplicationJWT.Controllers
                 var userIdFromToken = int.Parse(User.FindFirst(ClaimTypes.NameIdentifier)?.Value);
 
                 var newBalance = _bankBo.depositAmount(accountNumber, amount);
-
-                //// Find the user's bank account by AccountNumber
-                //var account = _context.Banks.FirstOrDefault(b => b.AccountNumber == accountNumber);
-                //if (account == null)
-                //    return NotFound("Account not found.");
-
-                //// Ensure the account belongs to the authenticated user
-                //if (account.UserId != userIdFromToken)
-                //    return Forbid("You are not authorized to deposit into this account.");
-
-                //// Update the account balance
-                //account.Amount += amount;
-                //_context.SaveChanges();
-
                 return Ok(new { Message = "Amount deposited successfully.", NewBalance = newBalance });
             }
             catch (Exception ex) {
@@ -124,24 +106,6 @@ namespace BankApplicationJWT.Controllers
                 var userIdFromToken = int.Parse(User.FindFirst(ClaimTypes.NameIdentifier)?.Value);
 
                 var balance = _bankBo.withdrawAmount(accountNumber, amount);
-
-                //// Find the user's bank account by AccountNumber
-                //var account = _context.Banks.FirstOrDefault(b => b.AccountNumber == accountNumber);
-                //if (account == null)
-                //    return NotFound("Account not found.");
-
-                //// Ensure the account belongs to the authenticated user
-                //if (account.UserId != userIdFromToken)
-                //    return Forbid("You are not authorized to withdraw from this account.");
-
-                //// Check if the user has sufficient balance
-                //if (account.Amount < amount)
-                //    return BadRequest("Insufficient balance.");
-
-                //// Update the account balance
-                //account.Amount -= amount;
-                //_context.SaveChanges();
-
                 return Ok(new { Message = "Amount withdrawn successfully.", NewBalance =balance});
             }
             catch (Exception ex) {
@@ -159,30 +123,6 @@ namespace BankApplicationJWT.Controllers
             {
                 // Extract UserId from JWT token
                 var senderIdFromToken = int.Parse(User.FindFirst(ClaimTypes.NameIdentifier)?.Value);
-
-                //// Find the sender's bank account by AccountNumber
-                //var senderAccount = _context.Banks.FirstOrDefault(b => b.AccountNumber == senderAccountNumber);
-                //if (senderAccount == null)
-                //    return NotFound("Sender account not found.");
-
-                //// Ensure the sender's account belongs to the authenticated user
-                //if (senderAccount.UserId != senderIdFromToken)
-                //    return Forbid("You are not authorized to transfer funds from this account.");
-
-                //// Find the recipient's bank account by AccountNumber
-                //var recipientAccount = _context.Banks.FirstOrDefault(b => b.AccountNumber == recipientAccountNumber);
-                //if (recipientAccount == null)
-                //    return NotFound("Recipient account not found.");
-
-                //// Check if the sender has sufficient balance
-                //if (senderAccount.Amount < amount)
-                //    return BadRequest("Insufficient balance.");
-
-                //// Perform the transfer
-                //senderAccount.Amount -= amount;
-                //recipientAccount.Amount += amount;
-                //_context.SaveChanges();
-
                 var balance = _bankBo.transferAmount(senderAccountNumber, recipientAccountNumber, amount);
 
                 return Ok(new

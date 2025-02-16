@@ -24,8 +24,8 @@
     "Order": 0,
     "Parameters": [
       {
-        "Name": "bank",
-        "Type": "BankApplicationJWT.Entity.Bank",
+        "Name": "bankDTO",
+        "Type": "BankApplicationJWT.DTO.BankDTO",
         "IsRequired": true
       }
     ],
@@ -124,8 +124,8 @@
     "Order": 0,
     "Parameters": [
       {
-        "Name": "user",
-        "Type": "BankApplicationJWT.Entity.User",
+        "Name": "userDTO",
+        "Type": "BankApplicationJWT.DTO.UserDTO",
         "IsRequired": true
       }
     ],

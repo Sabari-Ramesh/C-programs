@@ -14,17 +14,17 @@
           "content": {
             "application/json": {
               "schema": {
-                "$ref": "#/components/schemas/Bank"
+                "$ref": "#/components/schemas/BankDTO"
               }
             },
             "text/json": {
               "schema": {
-                "$ref": "#/components/schemas/Bank"
+                "$ref": "#/components/schemas/BankDTO"
               }
             },
             "application/*+json": {
               "schema": {
-                "$ref": "#/components/schemas/Bank"
+                "$ref": "#/components/schemas/BankDTO"
               }
             }
           }
@@ -162,17 +162,17 @@
           "content": {
             "application/json": {
               "schema": {
-                "$ref": "#/components/schemas/User"
+                "$ref": "#/components/schemas/UserDTO"
               }
             },
             "text/json": {
               "schema": {
-                "$ref": "#/components/schemas/User"
+                "$ref": "#/components/schemas/UserDTO"
               }
             },
             "application/*+json": {
               "schema": {
-                "$ref": "#/components/schemas/User"
+                "$ref": "#/components/schemas/UserDTO"
               }
             }
           }
@@ -257,14 +257,10 @@
   },
   "components": {
     "schemas": {
-      "Bank": {
-        "required": [
-          "userId"
-        ],
+      "BankDTO": {
         "type": "object",
         "properties": {
           "accountNumber": {
-            "maxLength": 10,
             "type": "string",
             "nullable": true
           },
@@ -275,9 +271,6 @@
           "amount": {
             "type": "number",
             "format": "double"
-          },
-          "user": {
-            "$ref": "#/components/schemas/User"
           }
         },
         "additionalProperties": false
@@ -296,12 +289,7 @@
         },
         "additionalProperties": false
       },
-      "User": {
-        "required": [
-          "password",
-          "userEmail",
-          "userName"
-        ],
+      "UserDTO": {
         "type": "object",
         "properties": {
           "userId": {
@@ -309,22 +297,16 @@
             "format": "int32"
           },
           "userName": {
-            "maxLength": 50,
-            "minLength": 0,
-            "type": "string"
+            "type": "string",
+            "nullable": true
           },
           "userEmail": {
-            "minLength": 1,
             "type": "string",
-            "format": "email"
+            "nullable": true
           },
           "password": {
-            "maxLength": 10,
-            "minLength": 1,
-            "type": "string"
-          },
-          "bank": {
-            "$ref": "#/components/schemas/Bank"
+            "type": "string",
+            "nullable": true
           }
         },
         "additionalProperties": false

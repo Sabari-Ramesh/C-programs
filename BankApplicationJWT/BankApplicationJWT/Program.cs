@@ -1,6 +1,7 @@
 
 using BankApplicationJWT.Bo;
 using BankApplicationJWT.Data;
+using BankApplicationJWT.DTO;
 using BankApplicationJWT.Repo;
 using Microsoft.AspNetCore.Authentication.JwtBearer;
 using Microsoft.EntityFrameworkCore;
@@ -21,6 +22,8 @@ namespace BankApplicationJWT
             builder.Services.AddScoped<BankRepo>();
             builder.Services.AddScoped<UserBo>();
             builder.Services.AddScoped<UserRepo>();
+            builder.Services.AddScoped<UserDTO>();
+            builder.Services.AddScoped<BankDTO>();
 
             builder.Services.AddDbContext<AppDbContext>(options => 
                 options.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnection")));

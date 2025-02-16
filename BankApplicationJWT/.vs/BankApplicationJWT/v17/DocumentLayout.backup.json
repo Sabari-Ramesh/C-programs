@@ -3,24 +3,44 @@
   "WorkspaceRootPath": "D:\\C# Programs\\BankApplicationJWT\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{74171830-657B-4604-85C8-A5964845290F}|BankApplicationJWT\\BankApplicationJWT.csproj|d:\\c# programs\\bankapplicationjwt\\bankapplicationjwt\\repo\\bankrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{74171830-657B-4604-85C8-A5964845290F}|BankApplicationJWT\\BankApplicationJWT.csproj|solutionrelative:bankapplicationjwt\\repo\\bankrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{74171830-657B-4604-85C8-A5964845290F}|BankApplicationJWT\\BankApplicationJWT.csproj|d:\\c# programs\\bankapplicationjwt\\bankapplicationjwt\\controllers\\bankcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{74171830-657B-4604-85C8-A5964845290F}|BankApplicationJWT\\BankApplicationJWT.csproj|solutionrelative:bankapplicationjwt\\controllers\\bankcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74171830-657B-4604-85C8-A5964845290F}|BankApplicationJWT\\BankApplicationJWT.csproj|d:\\c# programs\\bankapplicationjwt\\bankapplicationjwt\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74171830-657B-4604-85C8-A5964845290F}|BankApplicationJWT\\BankApplicationJWT.csproj|solutionrelative:bankapplicationjwt\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74171830-657B-4604-85C8-A5964845290F}|BankApplicationJWT\\BankApplicationJWT.csproj|d:\\c# programs\\bankapplicationjwt\\bankapplicationjwt\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74171830-657B-4604-85C8-A5964845290F}|BankApplicationJWT\\BankApplicationJWT.csproj|solutionrelative:bankapplicationjwt\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74171830-657B-4604-85C8-A5964845290F}|BankApplicationJWT\\BankApplicationJWT.csproj|d:\\c# programs\\bankapplicationjwt\\bankapplicationjwt\\dto\\bankdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74171830-657B-4604-85C8-A5964845290F}|BankApplicationJWT\\BankApplicationJWT.csproj|solutionrelative:bankapplicationjwt\\dto\\bankdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74171830-657B-4604-85C8-A5964845290F}|BankApplicationJWT\\BankApplicationJWT.csproj|d:\\c# programs\\bankapplicationjwt\\bankapplicationjwt\\entity\\bank.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74171830-657B-4604-85C8-A5964845290F}|BankApplicationJWT\\BankApplicationJWT.csproj|solutionrelative:bankapplicationjwt\\entity\\bank.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74171830-657B-4604-85C8-A5964845290F}|BankApplicationJWT\\BankApplicationJWT.csproj|d:\\c# programs\\bankapplicationjwt\\bankapplicationjwt\\dto\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74171830-657B-4604-85C8-A5964845290F}|BankApplicationJWT\\BankApplicationJWT.csproj|solutionrelative:bankapplicationjwt\\dto\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{74171830-657B-4604-85C8-A5964845290F}|BankApplicationJWT\\BankApplicationJWT.csproj|d:\\c# programs\\bankapplicationjwt\\bankapplicationjwt\\entity\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{74171830-657B-4604-85C8-A5964845290F}|BankApplicationJWT\\BankApplicationJWT.csproj|solutionrelative:bankapplicationjwt\\entity\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{74171830-657B-4604-85C8-A5964845290F}|BankApplicationJWT\\BankApplicationJWT.csproj|d:\\c# programs\\bankapplicationjwt\\bankapplicationjwt\\bo\\bankbo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{74171830-657B-4604-85C8-A5964845290F}|BankApplicationJWT\\BankApplicationJWT.csproj|solutionrelative:bankapplicationjwt\\bo\\bankbo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{74171830-657B-4604-85C8-A5964845290F}|BankApplicationJWT\\BankApplicationJWT.csproj|d:\\c# programs\\bankapplicationjwt\\bankapplicationjwt\\bankapplicationjwt.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{74171830-657B-4604-85C8-A5964845290F}|BankApplicationJWT\\BankApplicationJWT.csproj|solutionrelative:bankapplicationjwt\\bankapplicationjwt.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{74171830-657B-4604-85C8-A5964845290F}|BankApplicationJWT\\BankApplicationJWT.csproj|d:\\c# programs\\bankapplicationjwt\\bankapplicationjwt\\entity\\bank.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{74171830-657B-4604-85C8-A5964845290F}|BankApplicationJWT\\BankApplicationJWT.csproj|solutionrelative:bankapplicationjwt\\entity\\bank.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{74171830-657B-4604-85C8-A5964845290F}|BankApplicationJWT\\BankApplicationJWT.csproj|d:\\c# programs\\bankapplicationjwt\\bankapplicationjwt\\repo\\bankrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74171830-657B-4604-85C8-A5964845290F}|BankApplicationJWT\\BankApplicationJWT.csproj|solutionrelative:bankapplicationjwt\\repo\\bankrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74171830-657B-4604-85C8-A5964845290F}|BankApplicationJWT\\BankApplicationJWT.csproj|d:\\c# programs\\bankapplicationjwt\\bankapplicationjwt\\bo\\bankbo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74171830-657B-4604-85C8-A5964845290F}|BankApplicationJWT\\BankApplicationJWT.csproj|solutionrelative:bankapplicationjwt\\bo\\bankbo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,17 +50,17 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 6,
               "Title": "User.cs",
               "DocumentMoniker": "D:\\C# Programs\\BankApplicationJWT\\BankApplicationJWT\\Entity\\User.cs",
               "RelativeDocumentMoniker": "BankApplicationJWT\\Entity\\User.cs",
               "ToolTip": "D:\\C# Programs\\BankApplicationJWT\\BankApplicationJWT\\Entity\\User.cs",
               "RelativeToolTip": "BankApplicationJWT\\Entity\\User.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAVAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-15T03:50:30.58Z",
               "IsPinned": true,
@@ -48,42 +68,105 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "BankRepo.cs",
-              "DocumentMoniker": "D:\\C# Programs\\BankApplicationJWT\\BankApplicationJWT\\Repo\\BankRepo.cs",
-              "RelativeDocumentMoniker": "BankApplicationJWT\\Repo\\BankRepo.cs",
-              "ToolTip": "D:\\C# Programs\\BankApplicationJWT\\BankApplicationJWT\\Repo\\BankRepo.cs",
-              "RelativeToolTip": "BankApplicationJWT\\Repo\\BankRepo.cs",
-              "ViewState": "AgIAAB0AAAAAAAAAAAAiwC8AAAAoAAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\C# Programs\\BankApplicationJWT\\BankApplicationJWT\\Program.cs",
+              "RelativeDocumentMoniker": "BankApplicationJWT\\Program.cs",
+              "ToolTip": "D:\\C# Programs\\BankApplicationJWT\\BankApplicationJWT\\Program.cs",
+              "RelativeToolTip": "BankApplicationJWT\\Program.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAxwBkAAAAyAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-15T08:03:10.077Z",
+              "WhenOpened": "2025-02-16T15:00:29.045Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "BankBo.cs",
-              "DocumentMoniker": "D:\\C# Programs\\BankApplicationJWT\\BankApplicationJWT\\Bo\\BankBo.cs",
-              "RelativeDocumentMoniker": "BankApplicationJWT\\Bo\\BankBo.cs",
-              "ToolTip": "D:\\C# Programs\\BankApplicationJWT\\BankApplicationJWT\\Bo\\BankBo.cs*",
-              "RelativeToolTip": "BankApplicationJWT\\Bo\\BankBo.cs*",
-              "ViewState": "AgIAACgAAAAAAAAAAAAkwDYAAAApAAAAAAAAAA==",
+              "Title": "BankDTO.cs",
+              "DocumentMoniker": "D:\\C# Programs\\BankApplicationJWT\\BankApplicationJWT\\DTO\\BankDTO.cs",
+              "RelativeDocumentMoniker": "BankApplicationJWT\\DTO\\BankDTO.cs",
+              "ToolTip": "D:\\C# Programs\\BankApplicationJWT\\BankApplicationJWT\\DTO\\BankDTO.cs*",
+              "RelativeToolTip": "BankApplicationJWT\\DTO\\BankDTO.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-15T07:52:36.497Z",
+              "WhenOpened": "2025-02-16T14:59:45.534Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UserDTO.cs",
+              "DocumentMoniker": "D:\\C# Programs\\BankApplicationJWT\\BankApplicationJWT\\DTO\\UserDTO.cs",
+              "RelativeDocumentMoniker": "BankApplicationJWT\\DTO\\UserDTO.cs",
+              "ToolTip": "D:\\C# Programs\\BankApplicationJWT\\BankApplicationJWT\\DTO\\UserDTO.cs*",
+              "RelativeToolTip": "BankApplicationJWT\\DTO\\UserDTO.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-16T14:58:06.835Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "BankApplicationJWT",
+              "DocumentMoniker": "D:\\C# Programs\\BankApplicationJWT\\BankApplicationJWT\\BankApplicationJWT.csproj",
+              "RelativeDocumentMoniker": "BankApplicationJWT\\BankApplicationJWT.csproj",
+              "ToolTip": "D:\\C# Programs\\BankApplicationJWT\\BankApplicationJWT\\BankApplicationJWT.csproj*",
+              "RelativeToolTip": "BankApplicationJWT\\BankApplicationJWT.csproj*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-02-16T14:56:25.902Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "LoginController.cs",
+              "DocumentMoniker": "D:\\C# Programs\\BankApplicationJWT\\BankApplicationJWT\\Controllers\\LoginController.cs",
+              "RelativeDocumentMoniker": "BankApplicationJWT\\Controllers\\LoginController.cs",
+              "ToolTip": "D:\\C# Programs\\BankApplicationJWT\\BankApplicationJWT\\Controllers\\LoginController.cs*",
+              "RelativeToolTip": "BankApplicationJWT\\Controllers\\LoginController.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC0AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-16T14:56:09.729Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
               "Title": "BankController.cs",
               "DocumentMoniker": "D:\\C# Programs\\BankApplicationJWT\\BankApplicationJWT\\Controllers\\BankController.cs",
               "RelativeDocumentMoniker": "BankApplicationJWT\\Controllers\\BankController.cs",
-              "ToolTip": "D:\\C# Programs\\BankApplicationJWT\\BankApplicationJWT\\Controllers\\BankController.cs*",
-              "RelativeToolTip": "BankApplicationJWT\\Controllers\\BankController.cs*",
-              "ViewState": "AgIAAKQAAAAAAAAAAAAIwLUAAAADAAAAAAAAAA==",
+              "ToolTip": "D:\\C# Programs\\BankApplicationJWT\\BankApplicationJWT\\Controllers\\BankController.cs",
+              "RelativeToolTip": "BankApplicationJWT\\Controllers\\BankController.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAAwCIAAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-15T04:13:08.85Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "BankBo.cs",
+              "DocumentMoniker": "D:\\C# Programs\\BankApplicationJWT\\BankApplicationJWT\\Bo\\BankBo.cs",
+              "RelativeDocumentMoniker": "BankApplicationJWT\\Bo\\BankBo.cs",
+              "ToolTip": "D:\\C# Programs\\BankApplicationJWT\\BankApplicationJWT\\Bo\\BankBo.cs",
+              "RelativeToolTip": "BankApplicationJWT\\Bo\\BankBo.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAkwDYAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-15T07:52:36.497Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "BankRepo.cs",
+              "DocumentMoniker": "D:\\C# Programs\\BankApplicationJWT\\BankApplicationJWT\\Repo\\BankRepo.cs",
+              "RelativeDocumentMoniker": "BankApplicationJWT\\Repo\\BankRepo.cs",
+              "ToolTip": "D:\\C# Programs\\BankApplicationJWT\\BankApplicationJWT\\Repo\\BankRepo.cs",
+              "RelativeToolTip": "BankApplicationJWT\\Repo\\BankRepo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC8AAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-15T08:03:10.077Z"
             },
             {
               "$type": "Document",
@@ -93,7 +176,7 @@
               "RelativeDocumentMoniker": "BankApplicationJWT\\Entity\\Bank.cs",
               "ToolTip": "D:\\C# Programs\\BankApplicationJWT\\BankApplicationJWT\\Entity\\Bank.cs",
               "RelativeToolTip": "BankApplicationJWT\\Entity\\Bank.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-14T16:22:11.74Z",
               "EditorCaption": ""
