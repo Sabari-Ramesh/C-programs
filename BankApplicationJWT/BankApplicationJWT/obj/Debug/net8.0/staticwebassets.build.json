@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "x/zmGKkYLgCfXw9GsJfJxPujnmY7cLxt3EwZEpkrpC8=",
+  "Source": "BankApplicationJWT",
+  "BasePath": "_content/BankApplicationJWT",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
