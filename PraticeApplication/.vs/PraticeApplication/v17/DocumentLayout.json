@@ -1,0 +1,283 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\C# Programs\\PraticeApplication\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4975BE3D-5338-47EF-96B3-DA424E2BAF00}|DemoApplication\\DemoApplication.csproj|d:\\c# programs\\praticeapplication\\demoapplication\\controllers\\teachercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4975BE3D-5338-47EF-96B3-DA424E2BAF00}|DemoApplication\\DemoApplication.csproj|solutionrelative:demoapplication\\controllers\\teachercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4975BE3D-5338-47EF-96B3-DA424E2BAF00}|DemoApplication\\DemoApplication.csproj|d:\\c# programs\\praticeapplication\\demoapplication\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4975BE3D-5338-47EF-96B3-DA424E2BAF00}|DemoApplication\\DemoApplication.csproj|solutionrelative:demoapplication\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4975BE3D-5338-47EF-96B3-DA424E2BAF00}|DemoApplication\\DemoApplication.csproj|d:\\c# programs\\praticeapplication\\demoapplication\\model\\teacherdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4975BE3D-5338-47EF-96B3-DA424E2BAF00}|DemoApplication\\DemoApplication.csproj|solutionrelative:demoapplication\\model\\teacherdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4975BE3D-5338-47EF-96B3-DA424E2BAF00}|DemoApplication\\DemoApplication.csproj|d:\\c# programs\\praticeapplication\\demoapplication\\model\\entity\\teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4975BE3D-5338-47EF-96B3-DA424E2BAF00}|DemoApplication\\DemoApplication.csproj|solutionrelative:demoapplication\\model\\entity\\teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4975BE3D-5338-47EF-96B3-DA424E2BAF00}|DemoApplication\\DemoApplication.csproj|d:\\c# programs\\praticeapplication\\demoapplication\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4975BE3D-5338-47EF-96B3-DA424E2BAF00}|DemoApplication\\DemoApplication.csproj|solutionrelative:demoapplication\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4975BE3D-5338-47EF-96B3-DA424E2BAF00}|DemoApplication\\DemoApplication.csproj|d:\\c# programs\\praticeapplication\\demoapplication\\model\\studentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4975BE3D-5338-47EF-96B3-DA424E2BAF00}|DemoApplication\\DemoApplication.csproj|solutionrelative:demoapplication\\model\\studentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4975BE3D-5338-47EF-96B3-DA424E2BAF00}|DemoApplication\\DemoApplication.csproj|d:\\c# programs\\praticeapplication\\demoapplication\\model\\coursesdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4975BE3D-5338-47EF-96B3-DA424E2BAF00}|DemoApplication\\DemoApplication.csproj|solutionrelative:demoapplication\\model\\coursesdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4975BE3D-5338-47EF-96B3-DA424E2BAF00}|DemoApplication\\DemoApplication.csproj|d:\\c# programs\\praticeapplication\\demoapplication\\data\\applicationcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4975BE3D-5338-47EF-96B3-DA424E2BAF00}|DemoApplication\\DemoApplication.csproj|solutionrelative:demoapplication\\data\\applicationcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4975BE3D-5338-47EF-96B3-DA424E2BAF00}|DemoApplication\\DemoApplication.csproj|d:\\c# programs\\praticeapplication\\demoapplication\\model\\entity\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4975BE3D-5338-47EF-96B3-DA424E2BAF00}|DemoApplication\\DemoApplication.csproj|solutionrelative:demoapplication\\model\\entity\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4975BE3D-5338-47EF-96B3-DA424E2BAF00}|DemoApplication\\DemoApplication.csproj|d:\\c# programs\\praticeapplication\\demoapplication\\model\\entity\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4975BE3D-5338-47EF-96B3-DA424E2BAF00}|DemoApplication\\DemoApplication.csproj|solutionrelative:demoapplication\\model\\entity\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4975BE3D-5338-47EF-96B3-DA424E2BAF00}|DemoApplication\\DemoApplication.csproj|d:\\c# programs\\praticeapplication\\demoapplication\\demoapplication.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{4975BE3D-5338-47EF-96B3-DA424E2BAF00}|DemoApplication\\DemoApplication.csproj|solutionrelative:demoapplication\\demoapplication.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4975BE3D-5338-47EF-96B3-DA424E2BAF00}|DemoApplication\\DemoApplication.csproj|d:\\c# programs\\praticeapplication\\demoapplication\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4975BE3D-5338-47EF-96B3-DA424E2BAF00}|DemoApplication\\DemoApplication.csproj|solutionrelative:demoapplication\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4975BE3D-5338-47EF-96B3-DA424E2BAF00}|DemoApplication\\DemoApplication.csproj|d:\\c# programs\\praticeapplication\\demoapplication\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{4975BE3D-5338-47EF-96B3-DA424E2BAF00}|DemoApplication\\DemoApplication.csproj|solutionrelative:demoapplication\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4975BE3D-5338-47EF-96B3-DA424E2BAF00}|DemoApplication\\DemoApplication.csproj|d:\\c# programs\\praticeapplication\\demoapplication\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{4975BE3D-5338-47EF-96B3-DA424E2BAF00}|DemoApplication\\DemoApplication.csproj|solutionrelative:demoapplication\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4975BE3D-5338-47EF-96B3-DA424E2BAF00}|DemoApplication\\DemoApplication.csproj|d:\\c# programs\\praticeapplication\\demoapplication\\migrations\\20250210154651_initial migration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4975BE3D-5338-47EF-96B3-DA424E2BAF00}|DemoApplication\\DemoApplication.csproj|solutionrelative:demoapplication\\migrations\\20250210154651_initial migration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4975BE3D-5338-47EF-96B3-DA424E2BAF00}|DemoApplication\\DemoApplication.csproj|d:\\c# programs\\praticeapplication\\demoapplication\\migrations\\applicationcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4975BE3D-5338-47EF-96B3-DA424E2BAF00}|DemoApplication\\DemoApplication.csproj|solutionrelative:demoapplication\\migrations\\applicationcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TeacherDto.cs",
+              "DocumentMoniker": "D:\\C# Programs\\PraticeApplication\\DemoApplication\\Model\\TeacherDto.cs",
+              "RelativeDocumentMoniker": "DemoApplication\\Model\\TeacherDto.cs",
+              "ToolTip": "D:\\C# Programs\\PraticeApplication\\DemoApplication\\Model\\TeacherDto.cs",
+              "RelativeToolTip": "DemoApplication\\Model\\TeacherDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-11T15:28:30.927Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TeacherController.cs",
+              "DocumentMoniker": "D:\\C# Programs\\PraticeApplication\\DemoApplication\\Controllers\\TeacherController.cs",
+              "RelativeDocumentMoniker": "DemoApplication\\Controllers\\TeacherController.cs",
+              "ToolTip": "D:\\C# Programs\\PraticeApplication\\DemoApplication\\Controllers\\TeacherController.cs",
+              "RelativeToolTip": "DemoApplication\\Controllers\\TeacherController.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAuwCMAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-11T15:23:36.47Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StudentController.cs",
+              "DocumentMoniker": "D:\\C# Programs\\PraticeApplication\\DemoApplication\\Controllers\\StudentController.cs",
+              "RelativeDocumentMoniker": "DemoApplication\\Controllers\\StudentController.cs",
+              "ToolTip": "D:\\C# Programs\\PraticeApplication\\DemoApplication\\Controllers\\StudentController.cs",
+              "RelativeToolTip": "DemoApplication\\Controllers\\StudentController.cs",
+              "ViewState": "AgIAAEcAAAAAAAAAAAAgwFIAAABgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-10T16:03:25.485Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "D:\\C# Programs\\PraticeApplication\\DemoApplication\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "DemoApplication\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "D:\\C# Programs\\PraticeApplication\\DemoApplication\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "DemoApplication\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-10T12:09:10.646Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CoursesDto.cs",
+              "DocumentMoniker": "D:\\C# Programs\\PraticeApplication\\DemoApplication\\Model\\CoursesDto.cs",
+              "RelativeDocumentMoniker": "DemoApplication\\Model\\CoursesDto.cs",
+              "ToolTip": "D:\\C# Programs\\PraticeApplication\\DemoApplication\\Model\\CoursesDto.cs",
+              "RelativeToolTip": "DemoApplication\\Model\\CoursesDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-11T06:17:46.891Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "StudentDto.cs",
+              "DocumentMoniker": "D:\\C# Programs\\PraticeApplication\\DemoApplication\\Model\\StudentDto.cs",
+              "RelativeDocumentMoniker": "DemoApplication\\Model\\StudentDto.cs",
+              "ToolTip": "D:\\C# Programs\\PraticeApplication\\DemoApplication\\Model\\StudentDto.cs",
+              "RelativeToolTip": "DemoApplication\\Model\\StudentDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-11T05:12:28.251Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Teacher.cs",
+              "DocumentMoniker": "D:\\C# Programs\\PraticeApplication\\DemoApplication\\Model\\Entity\\Teacher.cs",
+              "RelativeDocumentMoniker": "DemoApplication\\Model\\Entity\\Teacher.cs",
+              "ToolTip": "D:\\C# Programs\\PraticeApplication\\DemoApplication\\Model\\Entity\\Teacher.cs",
+              "RelativeToolTip": "DemoApplication\\Model\\Entity\\Teacher.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-10T14:07:45.362Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ApplicationContext.cs",
+              "DocumentMoniker": "D:\\C# Programs\\PraticeApplication\\DemoApplication\\Data\\ApplicationContext.cs",
+              "RelativeDocumentMoniker": "DemoApplication\\Data\\ApplicationContext.cs",
+              "ToolTip": "D:\\C# Programs\\PraticeApplication\\DemoApplication\\Data\\ApplicationContext.cs",
+              "RelativeToolTip": "DemoApplication\\Data\\ApplicationContext.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAA8AAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-10T14:55:58.86Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Course.cs",
+              "DocumentMoniker": "D:\\C# Programs\\PraticeApplication\\DemoApplication\\Model\\Entity\\Course.cs",
+              "RelativeDocumentMoniker": "DemoApplication\\Model\\Entity\\Course.cs",
+              "ToolTip": "D:\\C# Programs\\PraticeApplication\\DemoApplication\\Model\\Entity\\Course.cs",
+              "RelativeToolTip": "DemoApplication\\Model\\Entity\\Course.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAcAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-10T14:51:51.638Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Student.cs",
+              "DocumentMoniker": "D:\\C# Programs\\PraticeApplication\\DemoApplication\\Model\\Entity\\Student.cs",
+              "RelativeDocumentMoniker": "DemoApplication\\Model\\Entity\\Student.cs",
+              "ToolTip": "D:\\C# Programs\\PraticeApplication\\DemoApplication\\Model\\Entity\\Student.cs",
+              "RelativeToolTip": "DemoApplication\\Model\\Entity\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-11T05:17:09.542Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "DemoApplication.http",
+              "DocumentMoniker": "D:\\C# Programs\\PraticeApplication\\DemoApplication\\DemoApplication.http",
+              "RelativeDocumentMoniker": "DemoApplication\\DemoApplication.http",
+              "ToolTip": "D:\\C# Programs\\PraticeApplication\\DemoApplication\\DemoApplication.http",
+              "RelativeToolTip": "DemoApplication\\DemoApplication.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-02-11T04:47:11.224Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\C# Programs\\PraticeApplication\\DemoApplication\\Program.cs",
+              "RelativeDocumentMoniker": "DemoApplication\\Program.cs",
+              "ToolTip": "D:\\C# Programs\\PraticeApplication\\DemoApplication\\Program.cs",
+              "RelativeToolTip": "DemoApplication\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-10T13:52:52.756Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "D:\\C# Programs\\PraticeApplication\\DemoApplication\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "DemoApplication\\appsettings.Development.json",
+              "ToolTip": "D:\\C# Programs\\PraticeApplication\\DemoApplication\\appsettings.Development.json",
+              "RelativeToolTip": "DemoApplication\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-10T15:50:12.386Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\C# Programs\\PraticeApplication\\DemoApplication\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "DemoApplication\\Properties\\launchSettings.json",
+              "ToolTip": "D:\\C# Programs\\PraticeApplication\\DemoApplication\\Properties\\launchSettings.json",
+              "RelativeToolTip": "DemoApplication\\Properties\\launchSettings.json",
+              "ViewState": "AgIAABEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-11T04:47:20.648Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "20250210154651_initial migration.cs",
+              "DocumentMoniker": "D:\\C# Programs\\PraticeApplication\\DemoApplication\\Migrations\\20250210154651_initial migration.cs",
+              "RelativeDocumentMoniker": "DemoApplication\\Migrations\\20250210154651_initial migration.cs",
+              "ToolTip": "D:\\C# Programs\\PraticeApplication\\DemoApplication\\Migrations\\20250210154651_initial migration.cs",
+              "RelativeToolTip": "DemoApplication\\Migrations\\20250210154651_initial migration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-10T15:46:52.254Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ApplicationContextModelSnapshot.cs",
+              "DocumentMoniker": "D:\\C# Programs\\PraticeApplication\\DemoApplication\\Migrations\\ApplicationContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "DemoApplication\\Migrations\\ApplicationContextModelSnapshot.cs",
+              "ToolTip": "D:\\C# Programs\\PraticeApplication\\DemoApplication\\Migrations\\ApplicationContextModelSnapshot.cs",
+              "RelativeToolTip": "DemoApplication\\Migrations\\ApplicationContextModelSnapshot.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-10T15:47:15.387Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

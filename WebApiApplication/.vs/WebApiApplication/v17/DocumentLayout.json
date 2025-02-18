@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\C# Programs\\WebApiApplication\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DE99681B-77AB-4AA9-B695-D3A69283F1A1}|WebApiApplication\\WebApiApplication.csproj|d:\\c# programs\\webapiapplication\\webapiapplication\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE99681B-77AB-4AA9-B695-D3A69283F1A1}|WebApiApplication\\WebApiApplication.csproj|solutionrelative:webapiapplication\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE99681B-77AB-4AA9-B695-D3A69283F1A1}|WebApiApplication\\WebApiApplication.csproj|d:\\c# programs\\webapiapplication\\webapiapplication\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{DE99681B-77AB-4AA9-B695-D3A69283F1A1}|WebApiApplication\\WebApiApplication.csproj|solutionrelative:webapiapplication\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE99681B-77AB-4AA9-B695-D3A69283F1A1}|WebApiApplication\\WebApiApplication.csproj|d:\\c# programs\\webapiapplication\\webapiapplication\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{DE99681B-77AB-4AA9-B695-D3A69283F1A1}|WebApiApplication\\WebApiApplication.csproj|solutionrelative:webapiapplication\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE99681B-77AB-4AA9-B695-D3A69283F1A1}|WebApiApplication\\WebApiApplication.csproj|d:\\c# programs\\webapiapplication\\webapiapplication\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE99681B-77AB-4AA9-B695-D3A69283F1A1}|WebApiApplication\\WebApiApplication.csproj|solutionrelative:webapiapplication\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE99681B-77AB-4AA9-B695-D3A69283F1A1}|WebApiApplication\\WebApiApplication.csproj|d:\\c# programs\\webapiapplication\\webapiapplication\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE99681B-77AB-4AA9-B695-D3A69283F1A1}|WebApiApplication\\WebApiApplication.csproj|solutionrelative:webapiapplication\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE99681B-77AB-4AA9-B695-D3A69283F1A1}|WebApiApplication\\WebApiApplication.csproj|d:\\c# programs\\webapiapplication\\webapiapplication\\models\\entity\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE99681B-77AB-4AA9-B695-D3A69283F1A1}|WebApiApplication\\WebApiApplication.csproj|solutionrelative:webapiapplication\\models\\entity\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\C# Programs\\WebApiApplication\\WebApiApplication\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "WebApiApplication\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\C# Programs\\WebApiApplication\\WebApiApplication\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "WebApiApplication\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-07T10:14:47.003Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "D:\\C# Programs\\WebApiApplication\\WebApiApplication\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "WebApiApplication\\appsettings.Development.json",
+              "ToolTip": "D:\\C# Programs\\WebApiApplication\\WebApiApplication\\appsettings.Development.json",
+              "RelativeToolTip": "WebApiApplication\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-07T10:14:35.217Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\C# Programs\\WebApiApplication\\WebApiApplication\\appsettings.json",
+              "RelativeDocumentMoniker": "WebApiApplication\\appsettings.json",
+              "ToolTip": "D:\\C# Programs\\WebApiApplication\\WebApiApplication\\appsettings.json",
+              "RelativeToolTip": "WebApiApplication\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAACHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-07T09:56:22.059Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\C# Programs\\WebApiApplication\\WebApiApplication\\Program.cs",
+              "RelativeDocumentMoniker": "WebApiApplication\\Program.cs",
+              "ToolTip": "D:\\C# Programs\\WebApiApplication\\WebApiApplication\\Program.cs",
+              "RelativeToolTip": "WebApiApplication\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-07T09:23:26.903Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "D:\\C# Programs\\WebApiApplication\\WebApiApplication\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "WebApiApplication\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "D:\\C# Programs\\WebApiApplication\\WebApiApplication\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "WebApiApplication\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-07T09:49:11.317Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "D:\\C# Programs\\WebApiApplication\\WebApiApplication\\Models\\Entity\\Employee.cs",
+              "RelativeDocumentMoniker": "WebApiApplication\\Models\\Entity\\Employee.cs",
+              "ToolTip": "D:\\C# Programs\\WebApiApplication\\WebApiApplication\\Models\\Entity\\Employee.cs",
+              "RelativeToolTip": "WebApiApplication\\Models\\Entity\\Employee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-07T09:42:41.287Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
