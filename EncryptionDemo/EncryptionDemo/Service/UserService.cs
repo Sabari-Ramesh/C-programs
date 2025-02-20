@@ -1,4 +1,6 @@
-﻿using EncryptionDemo.Entity;
+﻿using AutoMapper;
+using EncryptionDemo.DTO;
+using EncryptionDemo.Entity;
 using EncryptionDemo.Helper;
 using EncryptionDemo.Repository;
 
@@ -8,23 +10,34 @@ namespace EncryptionDemo.Service
     {
         private readonly IUserRepository userRepository;
         private readonly AESEncryption encryption;
-        public UserService(IUserRepository userRepository, AESEncryption encryption)
+        public readonly IMapper mapper;
+        public UserService(IUserRepository userRepository, AESEncryption encryption,IMapper mapper)
         {
             this.userRepository = userRepository;
             this.encryption = encryption;
+            this.mapper = mapper;
         }
 
         public async Task addUser(string userName,string userInformation) { 
             //Encrypt the Data
             String encryptedDataInfo = encryption.Encrypt(userInformation);
-            Console.WriteLine(encryptedDataInfo);
-            Console.WriteLine(userName);
+            //Console.WriteLine(encryptedDataInfo);
+            //Console.WriteLine(userName);
 
-            var user = new User
+            //var user = new User
+            //{
+            //    name = userName,
+            //    encryptedData = encryptedDataInfo
+            //};
+
+            UserDTO userDto = new()
             {
                 name = userName,
                 encryptedData = encryptedDataInfo
             };
+            var user = mapper.Map<User>(userDto);
+            Console.WriteLine(user.name);
+            Console.WriteLine(user.encryptedData);
             await userRepository.AddAsync(user);
 
         }
@@ -37,9 +50,10 @@ namespace EncryptionDemo.Service
             {
                 throw new InvalidOperationException("User not found.");
             }
+            var userDTO =mapper.Map<UserDTO>(user);
 
             // Decrypt the data
-            return encryption.Decrypt(user.encryptedData);
+            return encryption.Decrypt(userDTO.encryptedData);
         }
     }
 }

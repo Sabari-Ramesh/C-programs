@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "Q2OgfpQguFo=",
+  "dgSpecHash": "h2UgQNGAzL8=",
   "success": true,
   "projectFilePath": "D:\\C# Programs\\C-programs\\EncryptionDemo\\EncryptionDemo\\EncryptionDemo.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\DELL\\.nuget\\packages\\automapper\\14.0.0\\automapper.14.0.0.nupkg.sha512",
     "C:\\Users\\DELL\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\DELL\\.nuget\\packages\\azure.identity\\1.11.4\\azure.identity.1.11.4.nupkg.sha512",
     "C:\\Users\\DELL\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",

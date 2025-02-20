@@ -171,3 +171,4 @@ D:\C# Programs\C-programs\EncryptionDemo\EncryptionDemo\obj\Debug\net8.0\refint\
 D:\C# Programs\C-programs\EncryptionDemo\EncryptionDemo\obj\Debug\net8.0\EncryptionDemo.pdb
 D:\C# Programs\C-programs\EncryptionDemo\EncryptionDemo\obj\Debug\net8.0\EncryptionDemo.genruntimeconfig.cache
 D:\C# Programs\C-programs\EncryptionDemo\EncryptionDemo\obj\Debug\net8.0\ref\EncryptionDemo.dll
+D:\C# Programs\C-programs\EncryptionDemo\EncryptionDemo\bin\Debug\net8.0\AutoMapper.dll

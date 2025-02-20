@@ -25,6 +25,7 @@ namespace EncryptionDemo
             builder.Services.AddScoped<IUserRepository, UserRepository>();
             builder.Services.AddScoped<UserService>();
             builder.Services.AddScoped<AESEncryption>();
+            builder.Services.AddAutoMapper(typeof(Program));
 
             var app = builder.Build();
 
