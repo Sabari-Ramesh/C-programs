@@ -1,5 +1,7 @@
 
 using EncryptionDemo.Data;
+using EncryptionDemo.Helper;
+using EncryptionDemo.MiddleWare;
 using EncryptionDemo.Repository;
 using EncryptionDemo.Service;
 using Microsoft.EntityFrameworkCore;
@@ -22,8 +24,11 @@ namespace EncryptionDemo
                options.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnection")));
             builder.Services.AddScoped<IUserRepository, UserRepository>();
             builder.Services.AddScoped<UserService>();
+            builder.Services.AddScoped<AESEncryption>();
 
             var app = builder.Build();
+
+            app.UseMiddleware<LoggingMiddleWare>();
 
             // Configure the HTTP request pipeline.
             if (app.Environment.IsDevelopment())

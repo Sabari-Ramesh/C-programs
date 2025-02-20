@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\C# Programs\\C-programs\\MiddleWareDemo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EE7EAF72-6FFA-444B-8BBA-079E15D797B1}|MiddleWareDemo\\MiddleWareDemo.csproj|d:\\c# programs\\c-programs\\middlewaredemo\\middlewaredemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE7EAF72-6FFA-444B-8BBA-079E15D797B1}|MiddleWareDemo\\MiddleWareDemo.csproj|solutionrelative:middlewaredemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\C# Programs\\C-programs\\MiddleWareDemo\\MiddleWareDemo\\Program.cs",
+              "RelativeDocumentMoniker": "MiddleWareDemo\\Program.cs",
+              "ToolTip": "D:\\C# Programs\\C-programs\\MiddleWareDemo\\MiddleWareDemo\\Program.cs",
+              "RelativeToolTip": "MiddleWareDemo\\Program.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAowCQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T06:09:53.68Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

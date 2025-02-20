@@ -3,32 +3,16 @@
   "WorkspaceRootPath": "D:\\C# Programs\\C-programs\\PasswordHashing\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{72DE99B8-8735-46B1-8619-49B388A95E79}|PasswordHashing\\PasswordHashing.csproj|d:\\c# programs\\c-programs\\passwordhashing\\passwordhashing\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{72DE99B8-8735-46B1-8619-49B388A95E79}|PasswordHashing\\PasswordHashing.csproj|solutionrelative:passwordhashing\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{72DE99B8-8735-46B1-8619-49B388A95E79}|PasswordHashing\\PasswordHashing.csproj|d:\\c# programs\\c-programs\\passwordhashing\\passwordhashing\\service\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{72DE99B8-8735-46B1-8619-49B388A95E79}|PasswordHashing\\PasswordHashing.csproj|solutionrelative:passwordhashing\\service\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{72DE99B8-8735-46B1-8619-49B388A95E79}|PasswordHashing\\PasswordHashing.csproj|d:\\c# programs\\c-programs\\passwordhashing\\passwordhashing\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{72DE99B8-8735-46B1-8619-49B388A95E79}|PasswordHashing\\PasswordHashing.csproj|solutionrelative:passwordhashing\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{72DE99B8-8735-46B1-8619-49B388A95E79}|PasswordHashing\\PasswordHashing.csproj|d:\\c# programs\\c-programs\\passwordhashing\\passwordhashing\\passwordhashing.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{72DE99B8-8735-46B1-8619-49B388A95E79}|PasswordHashing\\PasswordHashing.csproj|solutionrelative:passwordhashing\\passwordhashing.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
       "AbsoluteMoniker": "D:0:0:{72DE99B8-8735-46B1-8619-49B388A95E79}|PasswordHashing\\PasswordHashing.csproj|d:\\c# programs\\c-programs\\passwordhashing\\passwordhashing\\entity\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{72DE99B8-8735-46B1-8619-49B388A95E79}|PasswordHashing\\PasswordHashing.csproj|solutionrelative:passwordhashing\\entity\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{72DE99B8-8735-46B1-8619-49B388A95E79}|PasswordHashing\\PasswordHashing.csproj|d:\\c# programs\\c-programs\\passwordhashing\\passwordhashing\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{72DE99B8-8735-46B1-8619-49B388A95E79}|PasswordHashing\\PasswordHashing.csproj|solutionrelative:passwordhashing\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{72DE99B8-8735-46B1-8619-49B388A95E79}|PasswordHashing\\PasswordHashing.csproj|d:\\c# programs\\c-programs\\passwordhashing\\passwordhashing\\migrations\\20250218043047_test.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{72DE99B8-8735-46B1-8619-49B388A95E79}|PasswordHashing\\PasswordHashing.csproj|solutionrelative:passwordhashing\\migrations\\20250218043047_test.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{72DE99B8-8735-46B1-8619-49B388A95E79}|PasswordHashing\\PasswordHashing.csproj|d:\\c# programs\\c-programs\\passwordhashing\\passwordhashing\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72DE99B8-8735-46B1-8619-49B388A95E79}|PasswordHashing\\PasswordHashing.csproj|solutionrelative:passwordhashing\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,92 +22,46 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "UserService.cs",
-              "DocumentMoniker": "D:\\C# Programs\\C-programs\\PasswordHashing\\PasswordHashing\\Service\\UserService.cs",
-              "RelativeDocumentMoniker": "PasswordHashing\\Service\\UserService.cs",
-              "ToolTip": "D:\\C# Programs\\C-programs\\PasswordHashing\\PasswordHashing\\Service\\UserService.cs",
-              "RelativeToolTip": "PasswordHashing\\Service\\UserService.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAxwAgAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-18T04:48:35.402Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "20250218043047_test.cs",
-              "DocumentMoniker": "D:\\C# Programs\\C-programs\\PasswordHashing\\PasswordHashing\\Migrations\\20250218043047_test.cs",
-              "RelativeDocumentMoniker": "PasswordHashing\\Migrations\\20250218043047_test.cs",
-              "ToolTip": "D:\\C# Programs\\C-programs\\PasswordHashing\\PasswordHashing\\Migrations\\20250218043047_test.cs",
-              "RelativeToolTip": "PasswordHashing\\Migrations\\20250218043047_test.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-18T04:30:47.901Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\C# Programs\\C-programs\\PasswordHashing\\PasswordHashing\\Program.cs",
-              "RelativeDocumentMoniker": "PasswordHashing\\Program.cs",
-              "ToolTip": "D:\\C# Programs\\C-programs\\PasswordHashing\\PasswordHashing\\Program.cs",
-              "RelativeToolTip": "PasswordHashing\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAuAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-18T04:29:16.354Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "AppDbContext.cs",
-              "DocumentMoniker": "D:\\C# Programs\\C-programs\\PasswordHashing\\PasswordHashing\\Data\\AppDbContext.cs",
-              "RelativeDocumentMoniker": "PasswordHashing\\Data\\AppDbContext.cs",
-              "ToolTip": "D:\\C# Programs\\C-programs\\PasswordHashing\\PasswordHashing\\Data\\AppDbContext.cs",
-              "RelativeToolTip": "PasswordHashing\\Data\\AppDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAnAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-18T04:25:44.285Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "PasswordHashing.csproj",
-              "DocumentMoniker": "D:\\C# Programs\\C-programs\\PasswordHashing\\PasswordHashing\\PasswordHashing.csproj",
-              "RelativeDocumentMoniker": "PasswordHashing\\PasswordHashing.csproj",
-              "ToolTip": "D:\\C# Programs\\C-programs\\PasswordHashing\\PasswordHashing\\PasswordHashing.csproj",
-              "RelativeToolTip": "PasswordHashing\\PasswordHashing.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAABIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-02-18T04:25:15.108Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "D:\\C# Programs\\C-programs\\PasswordHashing\\PasswordHashing\\appsettings.json",
-              "RelativeDocumentMoniker": "PasswordHashing\\appsettings.json",
-              "ToolTip": "D:\\C# Programs\\C-programs\\PasswordHashing\\PasswordHashing\\appsettings.json",
-              "RelativeToolTip": "PasswordHashing\\appsettings.json",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAkAAABVAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-02-18T04:24:49.741Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
               "Title": "User.cs",
               "DocumentMoniker": "D:\\C# Programs\\C-programs\\PasswordHashing\\PasswordHashing\\Entity\\User.cs",
               "RelativeDocumentMoniker": "PasswordHashing\\Entity\\User.cs",
               "ToolTip": "D:\\C# Programs\\C-programs\\PasswordHashing\\PasswordHashing\\Entity\\User.cs",
               "RelativeToolTip": "PasswordHashing\\Entity\\User.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-18T04:00:42.147Z"
+              "WhenOpened": "2025-02-18T06:47:42.717Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "D:\\C# Programs\\C-programs\\PasswordHashing\\PasswordHashing\\Service\\UserService.cs",
+              "RelativeDocumentMoniker": "PasswordHashing\\Service\\UserService.cs",
+              "ToolTip": "D:\\C# Programs\\C-programs\\PasswordHashing\\PasswordHashing\\Service\\UserService.cs",
+              "RelativeToolTip": "PasswordHashing\\Service\\UserService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-18T06:06:52.217Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\C# Programs\\C-programs\\PasswordHashing\\PasswordHashing\\Program.cs",
+              "RelativeDocumentMoniker": "PasswordHashing\\Program.cs",
+              "ToolTip": "D:\\C# Programs\\C-programs\\PasswordHashing\\PasswordHashing\\Program.cs",
+              "RelativeToolTip": "PasswordHashing\\Program.cs",
+              "ViewState": "AgIAADEAAAAAAAAAAAAQwAkAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-18T04:29:16.354Z",
+              "EditorCaption": ""
             }
           ]
         }

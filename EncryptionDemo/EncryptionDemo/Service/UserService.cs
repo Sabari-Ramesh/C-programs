@@ -7,14 +7,16 @@ namespace EncryptionDemo.Service
     public class UserService
     {
         private readonly IUserRepository userRepository;
-        public UserService(IUserRepository userRepository)
+        private readonly AESEncryption encryption;
+        public UserService(IUserRepository userRepository, AESEncryption encryption)
         {
             this.userRepository = userRepository;
+            this.encryption = encryption;
         }
 
         public async Task addUser(string userName,string userInformation) { 
             //Encrypt the Data
-            String encryptedDataInfo = AESEncryption.Encrypt(userInformation);
+            String encryptedDataInfo = encryption.Encrypt(userInformation);
             Console.WriteLine(encryptedDataInfo);
             Console.WriteLine(userName);
 
@@ -37,7 +39,7 @@ namespace EncryptionDemo.Service
             }
 
             // Decrypt the data
-            return AESEncryption.Decrypt(user.encryptedData);
+            return encryption.Decrypt(user.encryptedData);
         }
     }
 }
