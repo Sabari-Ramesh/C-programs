@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PasswordHashing")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0e4e819a559f169f74a1ff04bdc48f0358fb283f")]
 [assembly: System.Reflection.AssemblyProductAttribute("PasswordHashing")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PasswordHashing")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
