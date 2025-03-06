@@ -23,5 +23,11 @@ namespace EmailDemo.Service
         {
            return await userInfoRep.sendmailToAllUser();
         }
+
+        public async Task<bool> validateEmail(string email, string token)
+        {
+            Console.WriteLine($"service - Email: {email}, Token: {token}");
+            return await userInfoRep.validateEmail(email,token);
+        }
     }
 }

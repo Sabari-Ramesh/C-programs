@@ -27,6 +27,10 @@ namespace EncryptionDemo
             builder.Services.AddScoped<AESEncryption>();
             builder.Services.AddAutoMapper(typeof(Program));
 
+            //RSA Encryption
+            builder.Services.AddSingleton<IConfiguration>(builder.Configuration);
+            builder.Services.AddSingleton<RSAEncryption>();
+
             var app = builder.Build();
 
             app.UseMiddleware<LoggingMiddleWare>();

@@ -1,0 +1,6 @@
+@RASEncryptionDemo_HostAddress = http://localhost:5155
+
+GET {{RASEncryptionDemo_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

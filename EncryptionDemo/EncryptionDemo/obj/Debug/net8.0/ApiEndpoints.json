@@ -37,6 +37,43 @@
     "ReturnTypes": []
   },
   {
+    "ContainingType": "EncryptionDemo.Controllers.UserController",
+    "Method": "GetRSADecryptedData",
+    "RelativePath": "api/User/rsadecryption/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "EncryptionDemo.Controllers.UserController",
+    "Method": "RSAEncryption",
+    "RelativePath": "rsaencryption",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "name",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "sensitiveInformation",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
     "ContainingType": "EncryptionDemo.Controllers.WeatherForecastController",
     "Method": "Get",
     "RelativePath": "WeatherForecast",

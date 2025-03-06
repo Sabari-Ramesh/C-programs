@@ -7,6 +7,22 @@
       "RelativeMoniker": "D:0:0:{C1AFFC1E-82FC-46FD-A472-223D62B805B6}|EmailDemo\\EmailDemo.csproj|solutionrelative:emaildemo\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{C1AFFC1E-82FC-46FD-A472-223D62B805B6}|EmailDemo\\EmailDemo.csproj|d:\\c# programs\\c-programs\\emaildemo\\emaildemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1AFFC1E-82FC-46FD-A472-223D62B805B6}|EmailDemo\\EmailDemo.csproj|solutionrelative:emaildemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1AFFC1E-82FC-46FD-A472-223D62B805B6}|EmailDemo\\EmailDemo.csproj|d:\\c# programs\\c-programs\\emaildemo\\emaildemo\\controllers\\emailcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1AFFC1E-82FC-46FD-A472-223D62B805B6}|EmailDemo\\EmailDemo.csproj|solutionrelative:emaildemo\\controllers\\emailcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1AFFC1E-82FC-46FD-A472-223D62B805B6}|EmailDemo\\EmailDemo.csproj|d:\\c# programs\\c-programs\\emaildemo\\emaildemo\\service\\emailtokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1AFFC1E-82FC-46FD-A472-223D62B805B6}|EmailDemo\\EmailDemo.csproj|solutionrelative:emaildemo\\service\\emailtokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1AFFC1E-82FC-46FD-A472-223D62B805B6}|EmailDemo\\EmailDemo.csproj|d:\\c# programs\\c-programs\\emaildemo\\emaildemo\\service\\userinfoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1AFFC1E-82FC-46FD-A472-223D62B805B6}|EmailDemo\\EmailDemo.csproj|solutionrelative:emaildemo\\service\\userinfoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{C1AFFC1E-82FC-46FD-A472-223D62B805B6}|EmailDemo\\EmailDemo.csproj|d:\\c# programs\\c-programs\\emaildemo\\emaildemo\\repository\\userinforepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C1AFFC1E-82FC-46FD-A472-223D62B805B6}|EmailDemo\\EmailDemo.csproj|solutionrelative:emaildemo\\repository\\userinforepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -15,20 +31,8 @@
       "RelativeMoniker": "D:0:0:{C1AFFC1E-82FC-46FD-A472-223D62B805B6}|EmailDemo\\EmailDemo.csproj|solutionrelative:emaildemo\\repository\\iuserinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C1AFFC1E-82FC-46FD-A472-223D62B805B6}|EmailDemo\\EmailDemo.csproj|d:\\c# programs\\c-programs\\emaildemo\\emaildemo\\service\\userinfoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C1AFFC1E-82FC-46FD-A472-223D62B805B6}|EmailDemo\\EmailDemo.csproj|solutionrelative:emaildemo\\service\\userinfoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C1AFFC1E-82FC-46FD-A472-223D62B805B6}|EmailDemo\\EmailDemo.csproj|d:\\c# programs\\c-programs\\emaildemo\\emaildemo\\controllers\\emailcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C1AFFC1E-82FC-46FD-A472-223D62B805B6}|EmailDemo\\EmailDemo.csproj|solutionrelative:emaildemo\\controllers\\emailcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C1AFFC1E-82FC-46FD-A472-223D62B805B6}|EmailDemo\\EmailDemo.csproj|d:\\c# programs\\c-programs\\emaildemo\\emaildemo\\eception\\userexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C1AFFC1E-82FC-46FD-A472-223D62B805B6}|EmailDemo\\EmailDemo.csproj|solutionrelative:emaildemo\\eception\\userexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C1AFFC1E-82FC-46FD-A472-223D62B805B6}|EmailDemo\\EmailDemo.csproj|d:\\c# programs\\c-programs\\emaildemo\\emaildemo\\emaildemo.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{C1AFFC1E-82FC-46FD-A472-223D62B805B6}|EmailDemo\\EmailDemo.csproj|solutionrelative:emaildemo\\emaildemo.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{C1AFFC1E-82FC-46FD-A472-223D62B805B6}|EmailDemo\\EmailDemo.csproj|d:\\c# programs\\c-programs\\emaildemo\\emaildemo\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1AFFC1E-82FC-46FD-A472-223D62B805B6}|EmailDemo\\EmailDemo.csproj|solutionrelative:emaildemo\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C1AFFC1E-82FC-46FD-A472-223D62B805B6}|EmailDemo\\EmailDemo.csproj|d:\\c# programs\\c-programs\\emaildemo\\emaildemo\\helper\\emailsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -43,12 +47,16 @@
       "RelativeMoniker": "D:0:0:{C1AFFC1E-82FC-46FD-A472-223D62B805B6}|EmailDemo\\EmailDemo.csproj|solutionrelative:emaildemo\\model\\entity\\userinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C1AFFC1E-82FC-46FD-A472-223D62B805B6}|EmailDemo\\EmailDemo.csproj|d:\\c# programs\\c-programs\\emaildemo\\emaildemo\\model\\userinfodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C1AFFC1E-82FC-46FD-A472-223D62B805B6}|EmailDemo\\EmailDemo.csproj|solutionrelative:emaildemo\\model\\userinfodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C1AFFC1E-82FC-46FD-A472-223D62B805B6}|EmailDemo\\EmailDemo.csproj|d:\\c# programs\\c-programs\\emaildemo\\emaildemo\\eception\\userexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1AFFC1E-82FC-46FD-A472-223D62B805B6}|EmailDemo\\EmailDemo.csproj|solutionrelative:emaildemo\\eception\\userexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C1AFFC1E-82FC-46FD-A472-223D62B805B6}|EmailDemo\\EmailDemo.csproj|d:\\c# programs\\c-programs\\emaildemo\\emaildemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C1AFFC1E-82FC-46FD-A472-223D62B805B6}|EmailDemo\\EmailDemo.csproj|solutionrelative:emaildemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C1AFFC1E-82FC-46FD-A472-223D62B805B6}|EmailDemo\\EmailDemo.csproj|d:\\c# programs\\c-programs\\emaildemo\\emaildemo\\emaildemo.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{C1AFFC1E-82FC-46FD-A472-223D62B805B6}|EmailDemo\\EmailDemo.csproj|solutionrelative:emaildemo\\emaildemo.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1AFFC1E-82FC-46FD-A472-223D62B805B6}|EmailDemo\\EmailDemo.csproj|d:\\c# programs\\c-programs\\emaildemo\\emaildemo\\model\\userinfodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1AFFC1E-82FC-46FD-A472-223D62B805B6}|EmailDemo\\EmailDemo.csproj|solutionrelative:emaildemo\\model\\userinfodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C1AFFC1E-82FC-46FD-A472-223D62B805B6}|EmailDemo\\EmailDemo.csproj|d:\\c# programs\\c-programs\\emaildemo\\emaildemo\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -82,60 +90,109 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "EmailDemo.csproj",
-              "DocumentMoniker": "D:\\C# Programs\\C-programs\\EmailDemo\\EmailDemo\\EmailDemo.csproj",
-              "RelativeDocumentMoniker": "EmailDemo\\EmailDemo.csproj",
-              "ToolTip": "D:\\C# Programs\\C-programs\\EmailDemo\\EmailDemo\\EmailDemo.csproj",
-              "RelativeToolTip": "EmailDemo\\EmailDemo.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-02-22T07:55:36.833Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "UserInfoService.cs",
-              "DocumentMoniker": "D:\\C# Programs\\C-programs\\EmailDemo\\EmailDemo\\Service\\UserInfoService.cs",
-              "RelativeDocumentMoniker": "EmailDemo\\Service\\UserInfoService.cs",
-              "ToolTip": "D:\\C# Programs\\C-programs\\EmailDemo\\EmailDemo\\Service\\UserInfoService.cs",
-              "RelativeToolTip": "EmailDemo\\Service\\UserInfoService.cs",
-              "ViewState": "AgIAAAcAAAAAAAAAAAAlwBcAAAA1AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-20T14:18:43.456Z"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\C# Programs\\C-programs\\EmailDemo\\EmailDemo\\Program.cs",
+              "RelativeDocumentMoniker": "EmailDemo\\Program.cs",
+              "ToolTip": "D:\\C# Programs\\C-programs\\EmailDemo\\EmailDemo\\Program.cs",
+              "RelativeToolTip": "EmailDemo\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAnwA0AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T12:08:05.015Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "UserInfoRepo.cs",
               "DocumentMoniker": "D:\\C# Programs\\C-programs\\EmailDemo\\EmailDemo\\Repository\\UserInfoRepo.cs",
               "RelativeDocumentMoniker": "EmailDemo\\Repository\\UserInfoRepo.cs",
               "ToolTip": "D:\\C# Programs\\C-programs\\EmailDemo\\EmailDemo\\Repository\\UserInfoRepo.cs",
               "RelativeToolTip": "EmailDemo\\Repository\\UserInfoRepo.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAD4AAAAXAAAAAAAAAA==",
+              "ViewState": "AgIAACIBAAAAAAAAAAAAAK8AAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-20T15:52:32.371Z",
+              "WhenOpened": "2025-02-20T15:52:32.371Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\C# Programs\\C-programs\\EmailDemo\\EmailDemo\\appsettings.json",
+              "RelativeDocumentMoniker": "EmailDemo\\appsettings.json",
+              "ToolTip": "D:\\C# Programs\\C-programs\\EmailDemo\\EmailDemo\\appsettings.json",
+              "RelativeToolTip": "EmailDemo\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-22T06:12:14.32Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EmailTokenService.cs",
+              "DocumentMoniker": "D:\\C# Programs\\C-programs\\EmailDemo\\EmailDemo\\Service\\EmailTokenService.cs",
+              "RelativeDocumentMoniker": "EmailDemo\\Service\\EmailTokenService.cs",
+              "ToolTip": "D:\\C# Programs\\C-programs\\EmailDemo\\EmailDemo\\Service\\EmailTokenService.cs",
+              "RelativeToolTip": "EmailDemo\\Service\\EmailTokenService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T12:39:23.334Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UserInfoService.cs",
+              "DocumentMoniker": "D:\\C# Programs\\C-programs\\EmailDemo\\EmailDemo\\Service\\UserInfoService.cs",
+              "RelativeDocumentMoniker": "EmailDemo\\Service\\UserInfoService.cs",
+              "ToolTip": "D:\\C# Programs\\C-programs\\EmailDemo\\EmailDemo\\Service\\UserInfoService.cs",
+              "RelativeToolTip": "EmailDemo\\Service\\UserInfoService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T14:18:43.456Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "EmailController.cs",
+              "DocumentMoniker": "D:\\C# Programs\\C-programs\\EmailDemo\\EmailDemo\\Controllers\\EmailController.cs",
+              "RelativeDocumentMoniker": "EmailDemo\\Controllers\\EmailController.cs",
+              "ToolTip": "D:\\C# Programs\\C-programs\\EmailDemo\\EmailDemo\\Controllers\\EmailController.cs",
+              "RelativeToolTip": "EmailDemo\\Controllers\\EmailController.cs",
+              "ViewState": "AgIAAFsAAAAAAAAAAAAkwFcAAABOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T12:17:07.108Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "D:\\C# Programs\\C-programs\\EmailDemo\\EmailDemo\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "EmailDemo\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "D:\\C# Programs\\C-programs\\EmailDemo\\EmailDemo\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "EmailDemo\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T11:56:03.049Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "IUserInfo.cs",
               "DocumentMoniker": "D:\\C# Programs\\C-programs\\EmailDemo\\EmailDemo\\Repository\\IUserInfo.cs",
               "RelativeDocumentMoniker": "EmailDemo\\Repository\\IUserInfo.cs",
               "ToolTip": "D:\\C# Programs\\C-programs\\EmailDemo\\EmailDemo\\Repository\\IUserInfo.cs",
               "RelativeToolTip": "EmailDemo\\Repository\\IUserInfo.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAcAAAATAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-20T15:50:53.516Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "EmailSettings.cs",
               "DocumentMoniker": "D:\\C# Programs\\C-programs\\EmailDemo\\EmailDemo\\Helper\\EmailSettings.cs",
               "RelativeDocumentMoniker": "EmailDemo\\Helper\\EmailSettings.cs",
@@ -147,44 +204,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "D:\\C# Programs\\C-programs\\EmailDemo\\EmailDemo\\appsettings.json",
-              "RelativeDocumentMoniker": "EmailDemo\\appsettings.json",
-              "ToolTip": "D:\\C# Programs\\C-programs\\EmailDemo\\EmailDemo\\appsettings.json",
-              "RelativeToolTip": "EmailDemo\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAcAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-02-22T06:12:14.32Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "EmailController.cs",
-              "DocumentMoniker": "D:\\C# Programs\\C-programs\\EmailDemo\\EmailDemo\\Controllers\\EmailController.cs",
-              "RelativeDocumentMoniker": "EmailDemo\\Controllers\\EmailController.cs",
-              "ToolTip": "D:\\C# Programs\\C-programs\\EmailDemo\\EmailDemo\\Controllers\\EmailController.cs",
-              "RelativeToolTip": "EmailDemo\\Controllers\\EmailController.cs",
-              "ViewState": "AgIAAEEAAAAAAAAAAAAgwEgAAABDAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-20T12:17:07.108Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "UserException.cs",
-              "DocumentMoniker": "D:\\C# Programs\\C-programs\\EmailDemo\\EmailDemo\\Eception\\UserException.cs",
-              "RelativeDocumentMoniker": "EmailDemo\\Eception\\UserException.cs",
-              "ToolTip": "D:\\C# Programs\\C-programs\\EmailDemo\\EmailDemo\\Eception\\UserException.cs",
-              "RelativeToolTip": "EmailDemo\\Eception\\UserException.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAcAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-22T07:56:13.831Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "UserInfoProfile.cs",
               "DocumentMoniker": "D:\\C# Programs\\C-programs\\EmailDemo\\EmailDemo\\Helper\\UserInfoProfile.cs",
               "RelativeDocumentMoniker": "EmailDemo\\Helper\\UserInfoProfile.cs",
@@ -196,19 +216,43 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 12,
+              "Title": "EmailDemo.csproj",
+              "DocumentMoniker": "D:\\C# Programs\\C-programs\\EmailDemo\\EmailDemo\\EmailDemo.csproj",
+              "RelativeDocumentMoniker": "EmailDemo\\EmailDemo.csproj",
+              "ToolTip": "D:\\C# Programs\\C-programs\\EmailDemo\\EmailDemo\\EmailDemo.csproj",
+              "RelativeToolTip": "EmailDemo\\EmailDemo.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-02-22T07:55:36.833Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
               "Title": "UserInfo.cs",
               "DocumentMoniker": "D:\\C# Programs\\C-programs\\EmailDemo\\EmailDemo\\Model\\Entity\\UserInfo.cs",
               "RelativeDocumentMoniker": "EmailDemo\\Model\\Entity\\UserInfo.cs",
               "ToolTip": "D:\\C# Programs\\C-programs\\EmailDemo\\EmailDemo\\Model\\Entity\\UserInfo.cs",
               "RelativeToolTip": "EmailDemo\\Model\\Entity\\UserInfo.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAApAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-20T14:13:29.58Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 11,
+              "Title": "UserException.cs",
+              "DocumentMoniker": "D:\\C# Programs\\C-programs\\EmailDemo\\EmailDemo\\Eception\\UserException.cs",
+              "RelativeDocumentMoniker": "EmailDemo\\Eception\\UserException.cs",
+              "ToolTip": "D:\\C# Programs\\C-programs\\EmailDemo\\EmailDemo\\Eception\\UserException.cs",
+              "RelativeToolTip": "EmailDemo\\Eception\\UserException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-22T07:56:13.831Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
               "Title": "UserInfoDTO.cs",
               "DocumentMoniker": "D:\\C# Programs\\C-programs\\EmailDemo\\EmailDemo\\Model\\UserInfoDTO.cs",
               "RelativeDocumentMoniker": "EmailDemo\\Model\\UserInfoDTO.cs",
@@ -220,19 +264,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\C# Programs\\C-programs\\EmailDemo\\EmailDemo\\Program.cs",
-              "RelativeDocumentMoniker": "EmailDemo\\Program.cs",
-              "ToolTip": "D:\\C# Programs\\C-programs\\EmailDemo\\EmailDemo\\Program.cs",
-              "RelativeToolTip": "EmailDemo\\Program.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAAABwAAAA8AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-20T12:08:05.015Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 14,
               "Title": "AppDbContext.cs",
               "DocumentMoniker": "D:\\C# Programs\\C-programs\\EmailDemo\\EmailDemo\\Data\\AppDbContext.cs",
               "RelativeDocumentMoniker": "EmailDemo\\Data\\AppDbContext.cs",
@@ -244,7 +276,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 17,
               "Title": "20250220153256_Test3.cs",
               "DocumentMoniker": "D:\\C# Programs\\C-programs\\EmailDemo\\EmailDemo\\Migrations\\20250220153256_Test3.cs",
               "RelativeDocumentMoniker": "EmailDemo\\Migrations\\20250220153256_Test3.cs",
@@ -256,7 +288,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 18,
               "Title": "20250220153151_Test2.cs",
               "DocumentMoniker": "D:\\C# Programs\\C-programs\\EmailDemo\\EmailDemo\\Migrations\\20250220153151_Test2.cs",
               "RelativeDocumentMoniker": "EmailDemo\\Migrations\\20250220153151_Test2.cs",
@@ -268,7 +300,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 19,
               "Title": "20250220153032_Test.cs",
               "DocumentMoniker": "D:\\C# Programs\\C-programs\\EmailDemo\\EmailDemo\\Migrations\\20250220153032_Test.cs",
               "RelativeDocumentMoniker": "EmailDemo\\Migrations\\20250220153032_Test.cs",
@@ -280,7 +312,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 16,
               "Title": "EmailDemo.http",
               "DocumentMoniker": "D:\\C# Programs\\C-programs\\EmailDemo\\EmailDemo\\EmailDemo.http",
               "RelativeDocumentMoniker": "EmailDemo\\EmailDemo.http",
@@ -292,7 +324,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 15,
               "Title": "User.cs",
               "DocumentMoniker": "D:\\C# Programs\\C-programs\\EmailDemo\\EmailDemo\\Model\\User.cs",
               "RelativeDocumentMoniker": "EmailDemo\\Model\\User.cs",

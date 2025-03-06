@@ -42,6 +42,27 @@
     "ReturnTypes": []
   },
   {
+    "ContainingType": "EmailDemo.Controllers.EmailController",
+    "Method": "validateEmail",
+    "RelativePath": "verifymail",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "email",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "token",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
     "ContainingType": "EmailDemo.Controllers.WeatherForecastController",
     "Method": "Get",
     "RelativePath": "WeatherForecast",

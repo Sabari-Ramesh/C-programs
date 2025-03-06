@@ -25,6 +25,7 @@ namespace EmailDemo
             //builder.Services.AddScoped<UserInfoService>();
             //builder.Services.AddScoped<IUserInfo, UserInfoRepo>();
             builder.Services.AddScoped<IUserInfo, UserInfoRepo>();
+            builder.Services.AddSingleton<EmailTokenService>();
             builder.Services.AddScoped<UserInfoService>();
             builder.Services.AddAutoMapper(typeof(Program));
 

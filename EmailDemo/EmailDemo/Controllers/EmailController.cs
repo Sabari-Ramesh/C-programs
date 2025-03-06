@@ -9,6 +9,7 @@ using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.Infrastructure;
 using Microsoft.Extensions.Options;
 using MimeKit;
+using System.Reflection.Metadata.Ecma335;
 
 namespace EmailDemo.Controllers
 {
@@ -79,6 +80,17 @@ namespace EmailDemo.Controllers
             return BadRequest(ex.Message);
             }
         }
+
+        //verify the user
+        [HttpPost("verifymail")]
+        public async Task<IActionResult> validateEmail(string email, string token) {
+            bool flag = await userInfoservice.validateEmail(email, token);
+            Console.WriteLine($"Controller - Email: {email}, Token: {token}");
+            return (flag == true ? Ok("Email Verify Successfully!!!!") : BadRequest("In valid User!!!"));
+        }
+
+
+        //Send Email
 
         private void SendEmailWithMailKit(string toEmail, string subject, string body)
         {

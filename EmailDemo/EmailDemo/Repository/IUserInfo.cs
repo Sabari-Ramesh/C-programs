@@ -6,5 +6,6 @@ namespace EmailDemo.Repository
     {
         public Task<bool> AddUser(UserInfo userInfo);
         Task<bool> sendmailToAllUser();
+        Task<bool> validateEmail(string email, string token);
     }
 }
