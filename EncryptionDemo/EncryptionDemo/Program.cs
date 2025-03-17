@@ -31,6 +31,11 @@ namespace EncryptionDemo
             builder.Services.AddSingleton<IConfiguration>(builder.Configuration);
             builder.Services.AddSingleton<RSAEncryption>();
 
+            //CheckSum
+            builder.Services.AddScoped<AccountService>();
+            builder.Services.AddScoped<IAccountRepo, AccountRepo>();
+            builder.Services.AddScoped<CheckSum>();
+
             var app = builder.Build();
 
             app.UseMiddleware<LoggingMiddleWare>();

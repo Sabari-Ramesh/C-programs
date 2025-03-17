@@ -1,0 +1,360 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\C# Programs\\C-programs\\RoleBasedJWT\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A18E1C25-ABF4-4791-8A7B-F7E3F00248DC}|RoleBasedJWT.csproj|d:\\c# programs\\c-programs\\rolebasedjwt\\middleware\\jwtmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A18E1C25-ABF4-4791-8A7B-F7E3F00248DC}|RoleBasedJWT.csproj|solutionrelative:middleware\\jwtmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A18E1C25-ABF4-4791-8A7B-F7E3F00248DC}|RoleBasedJWT.csproj|d:\\c# programs\\c-programs\\rolebasedjwt\\extensions\\authextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A18E1C25-ABF4-4791-8A7B-F7E3F00248DC}|RoleBasedJWT.csproj|solutionrelative:extensions\\authextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A18E1C25-ABF4-4791-8A7B-F7E3F00248DC}|RoleBasedJWT.csproj|d:\\c# programs\\c-programs\\rolebasedjwt\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A18E1C25-ABF4-4791-8A7B-F7E3F00248DC}|RoleBasedJWT.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A18E1C25-ABF4-4791-8A7B-F7E3F00248DC}|RoleBasedJWT.csproj|d:\\c# programs\\c-programs\\rolebasedjwt\\helper\\jwthelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A18E1C25-ABF4-4791-8A7B-F7E3F00248DC}|RoleBasedJWT.csproj|solutionrelative:helper\\jwthelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A18E1C25-ABF4-4791-8A7B-F7E3F00248DC}|RoleBasedJWT.csproj|d:\\c# programs\\c-programs\\rolebasedjwt\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A18E1C25-ABF4-4791-8A7B-F7E3F00248DC}|RoleBasedJWT.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A18E1C25-ABF4-4791-8A7B-F7E3F00248DC}|RoleBasedJWT.csproj|d:\\c# programs\\c-programs\\rolebasedjwt\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A18E1C25-ABF4-4791-8A7B-F7E3F00248DC}|RoleBasedJWT.csproj|solutionrelative:appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A18E1C25-ABF4-4791-8A7B-F7E3F00248DC}|RoleBasedJWT.csproj|d:\\c# programs\\c-programs\\rolebasedjwt\\rolebasedjwt.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{A18E1C25-ABF4-4791-8A7B-F7E3F00248DC}|RoleBasedJWT.csproj|solutionrelative:rolebasedjwt.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A18E1C25-ABF4-4791-8A7B-F7E3F00248DC}|RoleBasedJWT.csproj|d:\\c# programs\\c-programs\\rolebasedjwt\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A18E1C25-ABF4-4791-8A7B-F7E3F00248DC}|RoleBasedJWT.csproj|solutionrelative:controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A18E1C25-ABF4-4791-8A7B-F7E3F00248DC}|RoleBasedJWT.csproj|d:\\c# programs\\c-programs\\rolebasedjwt\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A18E1C25-ABF4-4791-8A7B-F7E3F00248DC}|RoleBasedJWT.csproj|solutionrelative:controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A18E1C25-ABF4-4791-8A7B-F7E3F00248DC}|RoleBasedJWT.csproj|d:\\c# programs\\c-programs\\rolebasedjwt\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A18E1C25-ABF4-4791-8A7B-F7E3F00248DC}|RoleBasedJWT.csproj|solutionrelative:controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A18E1C25-ABF4-4791-8A7B-F7E3F00248DC}|RoleBasedJWT.csproj|d:\\c# programs\\c-programs\\rolebasedjwt\\repository\\accountrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A18E1C25-ABF4-4791-8A7B-F7E3F00248DC}|RoleBasedJWT.csproj|solutionrelative:repository\\accountrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A18E1C25-ABF4-4791-8A7B-F7E3F00248DC}|RoleBasedJWT.csproj|d:\\c# programs\\c-programs\\rolebasedjwt\\rolebasedjwt.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A18E1C25-ABF4-4791-8A7B-F7E3F00248DC}|RoleBasedJWT.csproj|solutionrelative:rolebasedjwt.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A18E1C25-ABF4-4791-8A7B-F7E3F00248DC}|RoleBasedJWT.csproj|d:\\c# programs\\c-programs\\rolebasedjwt\\service\\accountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A18E1C25-ABF4-4791-8A7B-F7E3F00248DC}|RoleBasedJWT.csproj|solutionrelative:service\\accountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A18E1C25-ABF4-4791-8A7B-F7E3F00248DC}|RoleBasedJWT.csproj|d:\\c# programs\\c-programs\\rolebasedjwt\\repository\\userrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A18E1C25-ABF4-4791-8A7B-F7E3F00248DC}|RoleBasedJWT.csproj|solutionrelative:repository\\userrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A18E1C25-ABF4-4791-8A7B-F7E3F00248DC}|RoleBasedJWT.csproj|d:\\c# programs\\c-programs\\rolebasedjwt\\service\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A18E1C25-ABF4-4791-8A7B-F7E3F00248DC}|RoleBasedJWT.csproj|solutionrelative:service\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A18E1C25-ABF4-4791-8A7B-F7E3F00248DC}|RoleBasedJWT.csproj|d:\\c# programs\\c-programs\\rolebasedjwt\\helper\\mapperhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A18E1C25-ABF4-4791-8A7B-F7E3F00248DC}|RoleBasedJWT.csproj|solutionrelative:helper\\mapperhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A18E1C25-ABF4-4791-8A7B-F7E3F00248DC}|RoleBasedJWT.csproj|d:\\c# programs\\c-programs\\rolebasedjwt\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A18E1C25-ABF4-4791-8A7B-F7E3F00248DC}|RoleBasedJWT.csproj|solutionrelative:data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A18E1C25-ABF4-4791-8A7B-F7E3F00248DC}|RoleBasedJWT.csproj|d:\\c# programs\\c-programs\\rolebasedjwt\\model\\dto\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A18E1C25-ABF4-4791-8A7B-F7E3F00248DC}|RoleBasedJWT.csproj|solutionrelative:model\\dto\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A18E1C25-ABF4-4791-8A7B-F7E3F00248DC}|RoleBasedJWT.csproj|d:\\c# programs\\c-programs\\rolebasedjwt\\model\\entity\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A18E1C25-ABF4-4791-8A7B-F7E3F00248DC}|RoleBasedJWT.csproj|solutionrelative:model\\entity\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A18E1C25-ABF4-4791-8A7B-F7E3F00248DC}|RoleBasedJWT.csproj|d:\\c# programs\\c-programs\\rolebasedjwt\\model\\entity\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A18E1C25-ABF4-4791-8A7B-F7E3F00248DC}|RoleBasedJWT.csproj|solutionrelative:model\\entity\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A18E1C25-ABF4-4791-8A7B-F7E3F00248DC}|RoleBasedJWT.csproj|d:\\c# programs\\c-programs\\rolebasedjwt\\migrations\\20250312080641_test connection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A18E1C25-ABF4-4791-8A7B-F7E3F00248DC}|RoleBasedJWT.csproj|solutionrelative:migrations\\20250312080641_test connection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AuthExtensions.cs",
+              "DocumentMoniker": "D:\\C# Programs\\C-programs\\RoleBasedJWT\\Extensions\\AuthExtensions.cs",
+              "RelativeDocumentMoniker": "Extensions\\AuthExtensions.cs",
+              "ToolTip": "D:\\C# Programs\\C-programs\\RoleBasedJWT\\Extensions\\AuthExtensions.cs",
+              "RelativeToolTip": "Extensions\\AuthExtensions.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAQwBAAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T12:58:16.671Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\C# Programs\\C-programs\\RoleBasedJWT\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "D:\\C# Programs\\C-programs\\RoleBasedJWT\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-12T07:40:54.485Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "RoleBasedJWT.http",
+              "DocumentMoniker": "D:\\C# Programs\\C-programs\\RoleBasedJWT\\RoleBasedJWT.http",
+              "RelativeDocumentMoniker": "RoleBasedJWT.http",
+              "ToolTip": "D:\\C# Programs\\C-programs\\RoleBasedJWT\\RoleBasedJWT.http",
+              "RelativeToolTip": "RoleBasedJWT.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-03-13T15:10:08.226Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "JwtMiddleware.cs",
+              "DocumentMoniker": "D:\\C# Programs\\C-programs\\RoleBasedJWT\\Middleware\\JwtMiddleware.cs",
+              "RelativeDocumentMoniker": "Middleware\\JwtMiddleware.cs",
+              "ToolTip": "D:\\C# Programs\\C-programs\\RoleBasedJWT\\Middleware\\JwtMiddleware.cs",
+              "RelativeToolTip": "Middleware\\JwtMiddleware.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwCoAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T11:28:39.789Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "JwtHelper.cs",
+              "DocumentMoniker": "D:\\C# Programs\\C-programs\\RoleBasedJWT\\Helper\\JwtHelper.cs",
+              "RelativeDocumentMoniker": "Helper\\JwtHelper.cs",
+              "ToolTip": "D:\\C# Programs\\C-programs\\RoleBasedJWT\\Helper\\JwtHelper.cs",
+              "RelativeToolTip": "Helper\\JwtHelper.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAxwB0AAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T11:18:27.185Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\C# Programs\\C-programs\\RoleBasedJWT\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\C# Programs\\C-programs\\RoleBasedJWT\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwDQAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T07:52:24.927Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "D:\\C# Programs\\C-programs\\RoleBasedJWT\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "appsettings.Development.json",
+              "ToolTip": "D:\\C# Programs\\C-programs\\RoleBasedJWT\\appsettings.Development.json",
+              "RelativeToolTip": "appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-14T11:33:13.517Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "D:\\C# Programs\\C-programs\\RoleBasedJWT\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AuthController.cs",
+              "ToolTip": "D:\\C# Programs\\C-programs\\RoleBasedJWT\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "Controllers\\AuthController.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAowCsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T15:00:54.902Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "D:\\C# Programs\\C-programs\\RoleBasedJWT\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "Controllers\\UserController.cs",
+              "ToolTip": "D:\\C# Programs\\C-programs\\RoleBasedJWT\\Controllers\\UserController.cs",
+              "RelativeToolTip": "Controllers\\UserController.cs",
+              "ViewState": "AgIAAIsAAAAAAAAAAAAAAKIAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T08:08:57.149Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "D:\\C# Programs\\C-programs\\RoleBasedJWT\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AccountController.cs",
+              "ToolTip": "D:\\C# Programs\\C-programs\\RoleBasedJWT\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "Controllers\\AccountController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T11:27:08.191Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AccountRepository.cs",
+              "DocumentMoniker": "D:\\C# Programs\\C-programs\\RoleBasedJWT\\Repository\\AccountRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\AccountRepository.cs",
+              "ToolTip": "D:\\C# Programs\\C-programs\\RoleBasedJWT\\Repository\\AccountRepository.cs",
+              "RelativeToolTip": "Repository\\AccountRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T10:26:32.735Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "D:\\C# Programs\\C-programs\\RoleBasedJWT\\Service\\UserService.cs",
+              "RelativeDocumentMoniker": "Service\\UserService.cs",
+              "ToolTip": "D:\\C# Programs\\C-programs\\RoleBasedJWT\\Service\\UserService.cs",
+              "RelativeToolTip": "Service\\UserService.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAADwvxgAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T09:37:10.289Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "RoleBasedJWT.csproj",
+              "DocumentMoniker": "D:\\C# Programs\\C-programs\\RoleBasedJWT\\RoleBasedJWT.csproj",
+              "RelativeDocumentMoniker": "RoleBasedJWT.csproj",
+              "ToolTip": "D:\\C# Programs\\C-programs\\RoleBasedJWT\\RoleBasedJWT.csproj",
+              "RelativeToolTip": "RoleBasedJWT.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-12T11:28:00.339Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "UserRepo.cs",
+              "DocumentMoniker": "D:\\C# Programs\\C-programs\\RoleBasedJWT\\Repository\\UserRepo.cs",
+              "RelativeDocumentMoniker": "Repository\\UserRepo.cs",
+              "ToolTip": "D:\\C# Programs\\C-programs\\RoleBasedJWT\\Repository\\UserRepo.cs",
+              "RelativeToolTip": "Repository\\UserRepo.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T09:38:23.256Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AccountService.cs",
+              "DocumentMoniker": "D:\\C# Programs\\C-programs\\RoleBasedJWT\\Service\\AccountService.cs",
+              "RelativeDocumentMoniker": "Service\\AccountService.cs",
+              "ToolTip": "D:\\C# Programs\\C-programs\\RoleBasedJWT\\Service\\AccountService.cs",
+              "RelativeToolTip": "Service\\AccountService.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwBMAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T10:26:16.166Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "MapperHelper.cs",
+              "DocumentMoniker": "D:\\C# Programs\\C-programs\\RoleBasedJWT\\Helper\\MapperHelper.cs",
+              "RelativeDocumentMoniker": "Helper\\MapperHelper.cs",
+              "ToolTip": "D:\\C# Programs\\C-programs\\RoleBasedJWT\\Helper\\MapperHelper.cs",
+              "RelativeToolTip": "Helper\\MapperHelper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T10:29:33.635Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "UserDto.cs",
+              "DocumentMoniker": "D:\\C# Programs\\C-programs\\RoleBasedJWT\\Model\\Dto\\UserDto.cs",
+              "RelativeDocumentMoniker": "Model\\Dto\\UserDto.cs",
+              "ToolTip": "D:\\C# Programs\\C-programs\\RoleBasedJWT\\Model\\Dto\\UserDto.cs",
+              "RelativeToolTip": "Model\\Dto\\UserDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T08:27:52.9Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "D:\\C# Programs\\C-programs\\RoleBasedJWT\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\AppDbContext.cs",
+              "ToolTip": "D:\\C# Programs\\C-programs\\RoleBasedJWT\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T07:50:00.834Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Account.cs",
+              "DocumentMoniker": "D:\\C# Programs\\C-programs\\RoleBasedJWT\\Model\\Entity\\Account.cs",
+              "RelativeDocumentMoniker": "Model\\Entity\\Account.cs",
+              "ToolTip": "D:\\C# Programs\\C-programs\\RoleBasedJWT\\Model\\Entity\\Account.cs",
+              "RelativeToolTip": "Model\\Entity\\Account.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T07:24:59.89Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\C# Programs\\C-programs\\RoleBasedJWT\\Model\\Entity\\User.cs",
+              "RelativeDocumentMoniker": "Model\\Entity\\User.cs",
+              "ToolTip": "D:\\C# Programs\\C-programs\\RoleBasedJWT\\Model\\Entity\\User.cs",
+              "RelativeToolTip": "Model\\Entity\\User.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAIBJwBYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T07:23:18.246Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "20250312080641_test Connection.cs",
+              "DocumentMoniker": "D:\\C# Programs\\C-programs\\RoleBasedJWT\\Migrations\\20250312080641_test Connection.cs",
+              "RelativeDocumentMoniker": "Migrations\\20250312080641_test Connection.cs",
+              "ToolTip": "D:\\C# Programs\\C-programs\\RoleBasedJWT\\Migrations\\20250312080641_test Connection.cs",
+              "RelativeToolTip": "Migrations\\20250312080641_test Connection.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T08:06:42.025Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

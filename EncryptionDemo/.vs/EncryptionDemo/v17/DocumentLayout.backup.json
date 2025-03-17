@@ -3,56 +3,104 @@
   "WorkspaceRootPath": "D:\\C# Programs\\C-programs\\EncryptionDemo\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{11EFD73E-F8F8-4DD9-8710-4A067A0C4D3E}|EncryptionDemo\\EncryptionDemo.csproj|d:\\c# programs\\c-programs\\encryptiondemo\\encryptiondemo\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{11EFD73E-F8F8-4DD9-8710-4A067A0C4D3E}|EncryptionDemo\\EncryptionDemo.csproj|solutionrelative:encryptiondemo\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{11EFD73E-F8F8-4DD9-8710-4A067A0C4D3E}|EncryptionDemo\\EncryptionDemo.csproj|d:\\c# programs\\c-programs\\encryptiondemo\\encryptiondemo\\helper\\rsaencryption.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{11EFD73E-F8F8-4DD9-8710-4A067A0C4D3E}|EncryptionDemo\\EncryptionDemo.csproj|solutionrelative:encryptiondemo\\helper\\rsaencryption.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{11EFD73E-F8F8-4DD9-8710-4A067A0C4D3E}|EncryptionDemo\\EncryptionDemo.csproj|d:\\c# programs\\c-programs\\encryptiondemo\\encryptiondemo\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{11EFD73E-F8F8-4DD9-8710-4A067A0C4D3E}|EncryptionDemo\\EncryptionDemo.csproj|solutionrelative:encryptiondemo\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{11EFD73E-F8F8-4DD9-8710-4A067A0C4D3E}|EncryptionDemo\\EncryptionDemo.csproj|d:\\c# programs\\c-programs\\encryptiondemo\\encryptiondemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{11EFD73E-F8F8-4DD9-8710-4A067A0C4D3E}|EncryptionDemo\\EncryptionDemo.csproj|solutionrelative:encryptiondemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{11EFD73E-F8F8-4DD9-8710-4A067A0C4D3E}|EncryptionDemo\\EncryptionDemo.csproj|d:\\c# programs\\c-programs\\encryptiondemo\\encryptiondemo\\service\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{11EFD73E-F8F8-4DD9-8710-4A067A0C4D3E}|EncryptionDemo\\EncryptionDemo.csproj|solutionrelative:encryptiondemo\\service\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{11EFD73E-F8F8-4DD9-8710-4A067A0C4D3E}|EncryptionDemo\\EncryptionDemo.csproj|d:\\c# programs\\c-programs\\encryptiondemo\\encryptiondemo\\helper\\aesencryption.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{11EFD73E-F8F8-4DD9-8710-4A067A0C4D3E}|EncryptionDemo\\EncryptionDemo.csproj|solutionrelative:encryptiondemo\\helper\\aesencryption.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{11EFD73E-F8F8-4DD9-8710-4A067A0C4D3E}|EncryptionDemo\\EncryptionDemo.csproj|d:\\c# programs\\c-programs\\encryptiondemo\\encryptiondemo\\mapper\\userprofiler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{11EFD73E-F8F8-4DD9-8710-4A067A0C4D3E}|EncryptionDemo\\EncryptionDemo.csproj|solutionrelative:encryptiondemo\\mapper\\userprofiler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{11EFD73E-F8F8-4DD9-8710-4A067A0C4D3E}|EncryptionDemo\\EncryptionDemo.csproj|d:\\c# programs\\c-programs\\encryptiondemo\\encryptiondemo\\repository\\accountrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11EFD73E-F8F8-4DD9-8710-4A067A0C4D3E}|EncryptionDemo\\EncryptionDemo.csproj|solutionrelative:encryptiondemo\\repository\\accountrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{11EFD73E-F8F8-4DD9-8710-4A067A0C4D3E}|EncryptionDemo\\EncryptionDemo.csproj|d:\\c# programs\\c-programs\\encryptiondemo\\encryptiondemo\\dto\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{11EFD73E-F8F8-4DD9-8710-4A067A0C4D3E}|EncryptionDemo\\EncryptionDemo.csproj|solutionrelative:encryptiondemo\\dto\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{11EFD73E-F8F8-4DD9-8710-4A067A0C4D3E}|EncryptionDemo\\EncryptionDemo.csproj|d:\\c# programs\\c-programs\\encryptiondemo\\encryptiondemo\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11EFD73E-F8F8-4DD9-8710-4A067A0C4D3E}|EncryptionDemo\\EncryptionDemo.csproj|solutionrelative:encryptiondemo\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{11EFD73E-F8F8-4DD9-8710-4A067A0C4D3E}|EncryptionDemo\\EncryptionDemo.csproj|d:\\c# programs\\c-programs\\encryptiondemo\\encryptiondemo\\entity\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{11EFD73E-F8F8-4DD9-8710-4A067A0C4D3E}|EncryptionDemo\\EncryptionDemo.csproj|solutionrelative:encryptiondemo\\entity\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{11EFD73E-F8F8-4DD9-8710-4A067A0C4D3E}|EncryptionDemo\\EncryptionDemo.csproj|d:\\c# programs\\c-programs\\encryptiondemo\\encryptiondemo\\entity\\accountdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11EFD73E-F8F8-4DD9-8710-4A067A0C4D3E}|EncryptionDemo\\EncryptionDemo.csproj|solutionrelative:encryptiondemo\\entity\\accountdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{11EFD73E-F8F8-4DD9-8710-4A067A0C4D3E}|EncryptionDemo\\EncryptionDemo.csproj|d:\\c# programs\\c-programs\\encryptiondemo\\encryptiondemo\\middleware\\loggingmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{11EFD73E-F8F8-4DD9-8710-4A067A0C4D3E}|EncryptionDemo\\EncryptionDemo.csproj|solutionrelative:encryptiondemo\\middleware\\loggingmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{11EFD73E-F8F8-4DD9-8710-4A067A0C4D3E}|EncryptionDemo\\EncryptionDemo.csproj|d:\\c# programs\\c-programs\\encryptiondemo\\encryptiondemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11EFD73E-F8F8-4DD9-8710-4A067A0C4D3E}|EncryptionDemo\\EncryptionDemo.csproj|solutionrelative:encryptiondemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11EFD73E-F8F8-4DD9-8710-4A067A0C4D3E}|EncryptionDemo\\EncryptionDemo.csproj|d:\\c# programs\\c-programs\\encryptiondemo\\encryptiondemo\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{11EFD73E-F8F8-4DD9-8710-4A067A0C4D3E}|EncryptionDemo\\EncryptionDemo.csproj|solutionrelative:encryptiondemo\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11EFD73E-F8F8-4DD9-8710-4A067A0C4D3E}|EncryptionDemo\\EncryptionDemo.csproj|d:\\c# programs\\c-programs\\encryptiondemo\\encryptiondemo\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11EFD73E-F8F8-4DD9-8710-4A067A0C4D3E}|EncryptionDemo\\EncryptionDemo.csproj|solutionrelative:encryptiondemo\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{11EFD73E-F8F8-4DD9-8710-4A067A0C4D3E}|EncryptionDemo\\EncryptionDemo.csproj|d:\\c# programs\\c-programs\\encryptiondemo\\encryptiondemo\\repository\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{11EFD73E-F8F8-4DD9-8710-4A067A0C4D3E}|EncryptionDemo\\EncryptionDemo.csproj|solutionrelative:encryptiondemo\\repository\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{11EFD73E-F8F8-4DD9-8710-4A067A0C4D3E}|EncryptionDemo\\EncryptionDemo.csproj|d:\\c# programs\\c-programs\\encryptiondemo\\encryptiondemo\\migrations\\20250306161106_test v5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11EFD73E-F8F8-4DD9-8710-4A067A0C4D3E}|EncryptionDemo\\EncryptionDemo.csproj|solutionrelative:encryptiondemo\\migrations\\20250306161106_test v5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11EFD73E-F8F8-4DD9-8710-4A067A0C4D3E}|EncryptionDemo\\EncryptionDemo.csproj|d:\\c# programs\\c-programs\\encryptiondemo\\encryptiondemo\\entity\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11EFD73E-F8F8-4DD9-8710-4A067A0C4D3E}|EncryptionDemo\\EncryptionDemo.csproj|solutionrelative:encryptiondemo\\entity\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11EFD73E-F8F8-4DD9-8710-4A067A0C4D3E}|EncryptionDemo\\EncryptionDemo.csproj|d:\\c# programs\\c-programs\\encryptiondemo\\encryptiondemo\\migrations\\appdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11EFD73E-F8F8-4DD9-8710-4A067A0C4D3E}|EncryptionDemo\\EncryptionDemo.csproj|solutionrelative:encryptiondemo\\migrations\\appdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11EFD73E-F8F8-4DD9-8710-4A067A0C4D3E}|EncryptionDemo\\EncryptionDemo.csproj|d:\\c# programs\\c-programs\\encryptiondemo\\encryptiondemo\\service\\accountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11EFD73E-F8F8-4DD9-8710-4A067A0C4D3E}|EncryptionDemo\\EncryptionDemo.csproj|solutionrelative:encryptiondemo\\service\\accountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11EFD73E-F8F8-4DD9-8710-4A067A0C4D3E}|EncryptionDemo\\EncryptionDemo.csproj|d:\\c# programs\\c-programs\\encryptiondemo\\encryptiondemo\\service\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11EFD73E-F8F8-4DD9-8710-4A067A0C4D3E}|EncryptionDemo\\EncryptionDemo.csproj|solutionrelative:encryptiondemo\\service\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11EFD73E-F8F8-4DD9-8710-4A067A0C4D3E}|EncryptionDemo\\EncryptionDemo.csproj|d:\\c# programs\\c-programs\\encryptiondemo\\encryptiondemo\\repository\\iaccountrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11EFD73E-F8F8-4DD9-8710-4A067A0C4D3E}|EncryptionDemo\\EncryptionDemo.csproj|solutionrelative:encryptiondemo\\repository\\iaccountrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11EFD73E-F8F8-4DD9-8710-4A067A0C4D3E}|EncryptionDemo\\EncryptionDemo.csproj|d:\\c# programs\\c-programs\\encryptiondemo\\encryptiondemo\\helper\\checksum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11EFD73E-F8F8-4DD9-8710-4A067A0C4D3E}|EncryptionDemo\\EncryptionDemo.csproj|solutionrelative:encryptiondemo\\helper\\checksum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{11EFD73E-F8F8-4DD9-8710-4A067A0C4D3E}|EncryptionDemo\\EncryptionDemo.csproj|d:\\c# programs\\c-programs\\encryptiondemo\\encryptiondemo\\repository\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{11EFD73E-F8F8-4DD9-8710-4A067A0C4D3E}|EncryptionDemo\\EncryptionDemo.csproj|solutionrelative:encryptiondemo\\repository\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{11EFD73E-F8F8-4DD9-8710-4A067A0C4D3E}|EncryptionDemo\\EncryptionDemo.csproj|d:\\c# programs\\c-programs\\encryptiondemo\\encryptiondemo\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11EFD73E-F8F8-4DD9-8710-4A067A0C4D3E}|EncryptionDemo\\EncryptionDemo.csproj|solutionrelative:encryptiondemo\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11EFD73E-F8F8-4DD9-8710-4A067A0C4D3E}|EncryptionDemo\\EncryptionDemo.csproj|d:\\c# programs\\c-programs\\encryptiondemo\\encryptiondemo\\dto\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11EFD73E-F8F8-4DD9-8710-4A067A0C4D3E}|EncryptionDemo\\EncryptionDemo.csproj|solutionrelative:encryptiondemo\\dto\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11EFD73E-F8F8-4DD9-8710-4A067A0C4D3E}|EncryptionDemo\\EncryptionDemo.csproj|d:\\c# programs\\c-programs\\encryptiondemo\\encryptiondemo\\mapper\\userprofiler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11EFD73E-F8F8-4DD9-8710-4A067A0C4D3E}|EncryptionDemo\\EncryptionDemo.csproj|solutionrelative:encryptiondemo\\mapper\\userprofiler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11EFD73E-F8F8-4DD9-8710-4A067A0C4D3E}|EncryptionDemo\\EncryptionDemo.csproj|d:\\c# programs\\c-programs\\encryptiondemo\\encryptiondemo\\middleware\\loggingmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11EFD73E-F8F8-4DD9-8710-4A067A0C4D3E}|EncryptionDemo\\EncryptionDemo.csproj|solutionrelative:encryptiondemo\\middleware\\loggingmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{11EFD73E-F8F8-4DD9-8710-4A067A0C4D3E}|EncryptionDemo\\EncryptionDemo.csproj|d:\\c# programs\\c-programs\\encryptiondemo\\encryptiondemo\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{11EFD73E-F8F8-4DD9-8710-4A067A0C4D3E}|EncryptionDemo\\EncryptionDemo.csproj|solutionrelative:encryptiondemo\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11EFD73E-F8F8-4DD9-8710-4A067A0C4D3E}|EncryptionDemo\\EncryptionDemo.csproj|d:\\c# programs\\c-programs\\encryptiondemo\\encryptiondemo\\migrations\\20250306160403_test v4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11EFD73E-F8F8-4DD9-8710-4A067A0C4D3E}|EncryptionDemo\\EncryptionDemo.csproj|solutionrelative:encryptiondemo\\migrations\\20250306160403_test v4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11EFD73E-F8F8-4DD9-8710-4A067A0C4D3E}|EncryptionDemo\\EncryptionDemo.csproj|d:\\c# programs\\c-programs\\encryptiondemo\\encryptiondemo\\migrations\\20250306152755_test v3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11EFD73E-F8F8-4DD9-8710-4A067A0C4D3E}|EncryptionDemo\\EncryptionDemo.csproj|solutionrelative:encryptiondemo\\migrations\\20250306152755_test v3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11EFD73E-F8F8-4DD9-8710-4A067A0C4D3E}|EncryptionDemo\\EncryptionDemo.csproj|d:\\c# programs\\c-programs\\encryptiondemo\\encryptiondemo\\migrations\\20250306152616_test v2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11EFD73E-F8F8-4DD9-8710-4A067A0C4D3E}|EncryptionDemo\\EncryptionDemo.csproj|solutionrelative:encryptiondemo\\migrations\\20250306152616_test v2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -62,23 +110,72 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "RSAEncryption.cs",
-              "DocumentMoniker": "D:\\C# Programs\\C-programs\\EncryptionDemo\\EncryptionDemo\\Helper\\RSAEncryption.cs",
-              "RelativeDocumentMoniker": "EncryptionDemo\\Helper\\RSAEncryption.cs",
-              "ToolTip": "D:\\C# Programs\\C-programs\\EncryptionDemo\\EncryptionDemo\\Helper\\RSAEncryption.cs",
-              "RelativeToolTip": "EncryptionDemo\\Helper\\RSAEncryption.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAAwDAAAADYAAAAAAAAAA==",
+              "DocumentIndex": 10,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\C# Programs\\C-programs\\EncryptionDemo\\EncryptionDemo\\Entity\\User.cs",
+              "RelativeDocumentMoniker": "EncryptionDemo\\Entity\\User.cs",
+              "ToolTip": "D:\\C# Programs\\C-programs\\EncryptionDemo\\EncryptionDemo\\Entity\\User.cs",
+              "RelativeToolTip": "EncryptionDemo\\Entity\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-05T07:56:18.947Z"
+              "WhenOpened": "2025-02-18T13:49:29.686Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\C# Programs\\C-programs\\EncryptionDemo\\EncryptionDemo\\appsettings.json",
+              "RelativeDocumentMoniker": "EncryptionDemo\\appsettings.json",
+              "ToolTip": "D:\\C# Programs\\C-programs\\EncryptionDemo\\EncryptionDemo\\appsettings.json",
+              "RelativeToolTip": "EncryptionDemo\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-18T13:53:38.226Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AccountDetails.cs",
+              "DocumentMoniker": "D:\\C# Programs\\C-programs\\EncryptionDemo\\EncryptionDemo\\Entity\\AccountDetails.cs",
+              "RelativeDocumentMoniker": "EncryptionDemo\\Entity\\AccountDetails.cs",
+              "ToolTip": "D:\\C# Programs\\C-programs\\EncryptionDemo\\EncryptionDemo\\Entity\\AccountDetails.cs",
+              "RelativeToolTip": "EncryptionDemo\\Entity\\AccountDetails.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T15:19:45.394Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "D:\\C# Programs\\C-programs\\EncryptionDemo\\EncryptionDemo\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "EncryptionDemo\\Controllers\\AccountController.cs",
+              "ToolTip": "D:\\C# Programs\\C-programs\\EncryptionDemo\\EncryptionDemo\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "EncryptionDemo\\Controllers\\AccountController.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwCIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T15:29:18.127Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AccountRepo.cs",
+              "DocumentMoniker": "D:\\C# Programs\\C-programs\\EncryptionDemo\\EncryptionDemo\\Repository\\AccountRepo.cs",
+              "RelativeDocumentMoniker": "EncryptionDemo\\Repository\\AccountRepo.cs",
+              "ToolTip": "D:\\C# Programs\\C-programs\\EncryptionDemo\\EncryptionDemo\\Repository\\AccountRepo.cs",
+              "RelativeToolTip": "EncryptionDemo\\Repository\\AccountRepo.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwBcAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T15:35:40.425Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "AESEncryption.cs",
               "DocumentMoniker": "D:\\C# Programs\\C-programs\\EncryptionDemo\\EncryptionDemo\\Helper\\AESEncryption.cs",
               "RelativeDocumentMoniker": "EncryptionDemo\\Helper\\AESEncryption.cs",
@@ -86,72 +183,205 @@
               "RelativeToolTip": "EncryptionDemo\\Helper\\AESEncryption.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAFYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-18T14:00:19.154Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\C# Programs\\C-programs\\EncryptionDemo\\EncryptionDemo\\Program.cs",
-              "RelativeDocumentMoniker": "EncryptionDemo\\Program.cs",
-              "ToolTip": "D:\\C# Programs\\C-programs\\EncryptionDemo\\EncryptionDemo\\Program.cs",
-              "RelativeToolTip": "EncryptionDemo\\Program.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAAwBwAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-18T13:54:59.285Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "UserService.cs",
-              "DocumentMoniker": "D:\\C# Programs\\C-programs\\EncryptionDemo\\EncryptionDemo\\Service\\UserService.cs",
-              "RelativeDocumentMoniker": "EncryptionDemo\\Service\\UserService.cs",
-              "ToolTip": "D:\\C# Programs\\C-programs\\EncryptionDemo\\EncryptionDemo\\Service\\UserService.cs",
-              "RelativeToolTip": "EncryptionDemo\\Service\\UserService.cs",
-              "ViewState": "AgIAAEMAAAAAAAAAAAAkwE0AAAAzAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-18T15:44:48.234Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "D:\\C# Programs\\C-programs\\EncryptionDemo\\EncryptionDemo\\appsettings.json",
-              "RelativeDocumentMoniker": "EncryptionDemo\\appsettings.json",
-              "ToolTip": "D:\\C# Programs\\C-programs\\EncryptionDemo\\EncryptionDemo\\appsettings.json",
-              "RelativeToolTip": "EncryptionDemo\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-02-18T13:53:38.226Z"
+              "WhenOpened": "2025-02-18T14:00:19.154Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "UserController.cs",
-              "DocumentMoniker": "D:\\C# Programs\\C-programs\\EncryptionDemo\\EncryptionDemo\\Controllers\\UserController.cs",
-              "RelativeDocumentMoniker": "EncryptionDemo\\Controllers\\UserController.cs",
-              "ToolTip": "D:\\C# Programs\\C-programs\\EncryptionDemo\\EncryptionDemo\\Controllers\\UserController.cs",
-              "RelativeToolTip": "EncryptionDemo\\Controllers\\UserController.cs",
-              "ViewState": "AgIAAEMAAAAAAAAAAAAkwFAAAAAkAAAAAAAAAA==",
+              "Title": "RSAEncryption.cs",
+              "DocumentMoniker": "D:\\C# Programs\\C-programs\\EncryptionDemo\\EncryptionDemo\\Helper\\RSAEncryption.cs",
+              "RelativeDocumentMoniker": "EncryptionDemo\\Helper\\RSAEncryption.cs",
+              "ToolTip": "D:\\C# Programs\\C-programs\\EncryptionDemo\\EncryptionDemo\\Helper\\RSAEncryption.cs",
+              "RelativeToolTip": "EncryptionDemo\\Helper\\RSAEncryption.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAAwDAAAADYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-18T15:27:26.309Z",
+              "WhenOpened": "2025-03-05T07:56:18.947Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "D:\\C# Programs\\C-programs\\EncryptionDemo\\EncryptionDemo\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "EncryptionDemo\\Data\\AppDbContext.cs",
+              "ToolTip": "D:\\C# Programs\\C-programs\\EncryptionDemo\\EncryptionDemo\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "EncryptionDemo\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T15:27:09.941Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\C# Programs\\C-programs\\EncryptionDemo\\EncryptionDemo\\Program.cs",
+              "RelativeDocumentMoniker": "EncryptionDemo\\Program.cs",
+              "ToolTip": "D:\\C# Programs\\C-programs\\EncryptionDemo\\EncryptionDemo\\Program.cs",
+              "RelativeToolTip": "EncryptionDemo\\Program.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwBcAAABlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-18T13:54:59.285Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "D:\\C# Programs\\C-programs\\EncryptionDemo\\EncryptionDemo\\Service\\UserService.cs",
+              "RelativeDocumentMoniker": "EncryptionDemo\\Service\\UserService.cs",
+              "ToolTip": "D:\\C# Programs\\C-programs\\EncryptionDemo\\EncryptionDemo\\Service\\UserService.cs",
+              "RelativeToolTip": "EncryptionDemo\\Service\\UserService.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAE0AAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-18T15:44:48.234Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "D:\\C# Programs\\C-programs\\EncryptionDemo\\EncryptionDemo\\Repository\\UserRepository.cs",
+              "RelativeDocumentMoniker": "EncryptionDemo\\Repository\\UserRepository.cs",
+              "ToolTip": "D:\\C# Programs\\C-programs\\EncryptionDemo\\EncryptionDemo\\Repository\\UserRepository.cs",
+              "RelativeToolTip": "EncryptionDemo\\Repository\\UserRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-18T15:17:12.183Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "20250306161106_Test V5.cs",
+              "DocumentMoniker": "D:\\C# Programs\\C-programs\\EncryptionDemo\\EncryptionDemo\\Migrations\\20250306161106_Test V5.cs",
+              "RelativeDocumentMoniker": "EncryptionDemo\\Migrations\\20250306161106_Test V5.cs",
+              "ToolTip": "D:\\C# Programs\\C-programs\\EncryptionDemo\\EncryptionDemo\\Migrations\\20250306161106_Test V5.cs",
+              "RelativeToolTip": "EncryptionDemo\\Migrations\\20250306161106_Test V5.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T16:11:06.803Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AppDbContextModelSnapshot.cs",
+              "DocumentMoniker": "D:\\C# Programs\\C-programs\\EncryptionDemo\\EncryptionDemo\\Migrations\\AppDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "EncryptionDemo\\Migrations\\AppDbContextModelSnapshot.cs",
+              "ToolTip": "D:\\C# Programs\\C-programs\\EncryptionDemo\\EncryptionDemo\\Migrations\\AppDbContextModelSnapshot.cs",
+              "RelativeToolTip": "EncryptionDemo\\Migrations\\AppDbContextModelSnapshot.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T16:12:59.425Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AccountService.cs",
+              "DocumentMoniker": "D:\\C# Programs\\C-programs\\EncryptionDemo\\EncryptionDemo\\Service\\AccountService.cs",
+              "RelativeDocumentMoniker": "EncryptionDemo\\Service\\AccountService.cs",
+              "ToolTip": "D:\\C# Programs\\C-programs\\EncryptionDemo\\EncryptionDemo\\Service\\AccountService.cs",
+              "RelativeToolTip": "EncryptionDemo\\Service\\AccountService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T15:31:49.689Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "20250306160403_Test V4.cs",
+              "DocumentMoniker": "D:\\C# Programs\\C-programs\\EncryptionDemo\\EncryptionDemo\\Migrations\\20250306160403_Test V4.cs",
+              "RelativeDocumentMoniker": "EncryptionDemo\\Migrations\\20250306160403_Test V4.cs",
+              "ToolTip": "D:\\C# Programs\\C-programs\\EncryptionDemo\\EncryptionDemo\\Migrations\\20250306160403_Test V4.cs",
+              "RelativeToolTip": "EncryptionDemo\\Migrations\\20250306160403_Test V4.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T16:04:03.301Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "IAccountRepo.cs",
+              "DocumentMoniker": "D:\\C# Programs\\C-programs\\EncryptionDemo\\EncryptionDemo\\Repository\\IAccountRepo.cs",
+              "RelativeDocumentMoniker": "EncryptionDemo\\Repository\\IAccountRepo.cs",
+              "ToolTip": "D:\\C# Programs\\C-programs\\EncryptionDemo\\EncryptionDemo\\Repository\\IAccountRepo.cs",
+              "RelativeToolTip": "EncryptionDemo\\Repository\\IAccountRepo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAcAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T15:34:51.139Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "IUserRepository.cs",
+              "DocumentMoniker": "D:\\C# Programs\\C-programs\\EncryptionDemo\\EncryptionDemo\\Repository\\IUserRepository.cs",
+              "RelativeDocumentMoniker": "EncryptionDemo\\Repository\\IUserRepository.cs",
+              "ToolTip": "D:\\C# Programs\\C-programs\\EncryptionDemo\\EncryptionDemo\\Repository\\IUserRepository.cs",
+              "RelativeToolTip": "EncryptionDemo\\Repository\\IUserRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-18T15:16:10.1Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "CheckSum.cs",
+              "DocumentMoniker": "D:\\C# Programs\\C-programs\\EncryptionDemo\\EncryptionDemo\\Helper\\CheckSum.cs",
+              "RelativeDocumentMoniker": "EncryptionDemo\\Helper\\CheckSum.cs",
+              "ToolTip": "D:\\C# Programs\\C-programs\\EncryptionDemo\\EncryptionDemo\\Helper\\CheckSum.cs",
+              "RelativeToolTip": "EncryptionDemo\\Helper\\CheckSum.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T15:46:46.611Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "D:\\C# Programs\\C-programs\\EncryptionDemo\\EncryptionDemo\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "EncryptionDemo\\Controllers\\UserController.cs",
+              "ToolTip": "D:\\C# Programs\\C-programs\\EncryptionDemo\\EncryptionDemo\\Controllers\\UserController.cs",
+              "RelativeToolTip": "EncryptionDemo\\Controllers\\UserController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACoAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-18T15:27:26.309Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "20250306152755_Test V3.cs",
+              "DocumentMoniker": "D:\\C# Programs\\C-programs\\EncryptionDemo\\EncryptionDemo\\Migrations\\20250306152755_Test V3.cs",
+              "RelativeDocumentMoniker": "EncryptionDemo\\Migrations\\20250306152755_Test V3.cs",
+              "ToolTip": "D:\\C# Programs\\C-programs\\EncryptionDemo\\EncryptionDemo\\Migrations\\20250306152755_Test V3.cs",
+              "RelativeToolTip": "EncryptionDemo\\Migrations\\20250306152755_Test V3.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T15:27:55.321Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "20250306152616_Test V2.cs",
+              "DocumentMoniker": "D:\\C# Programs\\C-programs\\EncryptionDemo\\EncryptionDemo\\Migrations\\20250306152616_Test V2.cs",
+              "RelativeDocumentMoniker": "EncryptionDemo\\Migrations\\20250306152616_Test V2.cs",
+              "ToolTip": "D:\\C# Programs\\C-programs\\EncryptionDemo\\EncryptionDemo\\Migrations\\20250306152616_Test V2.cs",
+              "RelativeToolTip": "EncryptionDemo\\Migrations\\20250306152616_Test V2.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T15:26:16.709Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
               "Title": "UserDTO.cs",
               "DocumentMoniker": "D:\\C# Programs\\C-programs\\EncryptionDemo\\EncryptionDemo\\DTO\\UserDTO.cs",
               "RelativeDocumentMoniker": "EncryptionDemo\\DTO\\UserDTO.cs",
               "ToolTip": "D:\\C# Programs\\C-programs\\EncryptionDemo\\EncryptionDemo\\DTO\\UserDTO.cs",
               "RelativeToolTip": "EncryptionDemo\\DTO\\UserDTO.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAjAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-20T08:17:04.308Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 19,
               "Title": "UserProfiler.cs",
               "DocumentMoniker": "D:\\C# Programs\\C-programs\\EncryptionDemo\\EncryptionDemo\\Mapper\\UserProfiler.cs",
               "RelativeDocumentMoniker": "EncryptionDemo\\Mapper\\UserProfiler.cs",
@@ -163,7 +393,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 20,
               "Title": "LoggingMiddleWare.cs",
               "DocumentMoniker": "D:\\C# Programs\\C-programs\\EncryptionDemo\\EncryptionDemo\\MiddleWare\\LoggingMiddleWare.cs",
               "RelativeDocumentMoniker": "EncryptionDemo\\MiddleWare\\LoggingMiddleWare.cs",
@@ -175,7 +405,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 21,
               "Title": "WeatherForecast.cs",
               "DocumentMoniker": "D:\\C# Programs\\C-programs\\EncryptionDemo\\EncryptionDemo\\WeatherForecast.cs",
               "RelativeDocumentMoniker": "EncryptionDemo\\WeatherForecast.cs",
@@ -184,42 +414,6 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-18T13:55:34.464Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "User.cs",
-              "DocumentMoniker": "D:\\C# Programs\\C-programs\\EncryptionDemo\\EncryptionDemo\\Entity\\User.cs",
-              "RelativeDocumentMoniker": "EncryptionDemo\\Entity\\User.cs",
-              "ToolTip": "D:\\C# Programs\\C-programs\\EncryptionDemo\\EncryptionDemo\\Entity\\User.cs",
-              "RelativeToolTip": "EncryptionDemo\\Entity\\User.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAxAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-18T13:49:29.686Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "UserRepository.cs",
-              "DocumentMoniker": "D:\\C# Programs\\C-programs\\EncryptionDemo\\EncryptionDemo\\Repository\\UserRepository.cs",
-              "RelativeDocumentMoniker": "EncryptionDemo\\Repository\\UserRepository.cs",
-              "ToolTip": "D:\\C# Programs\\C-programs\\EncryptionDemo\\EncryptionDemo\\Repository\\UserRepository.cs",
-              "RelativeToolTip": "EncryptionDemo\\Repository\\UserRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAZAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-18T15:17:12.183Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "IUserRepository.cs",
-              "DocumentMoniker": "D:\\C# Programs\\C-programs\\EncryptionDemo\\EncryptionDemo\\Repository\\IUserRepository.cs",
-              "RelativeDocumentMoniker": "EncryptionDemo\\Repository\\IUserRepository.cs",
-              "ToolTip": "D:\\C# Programs\\C-programs\\EncryptionDemo\\EncryptionDemo\\Repository\\IUserRepository.cs",
-              "RelativeToolTip": "EncryptionDemo\\Repository\\IUserRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAhAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-18T15:16:10.1Z"
             }
           ]
         }

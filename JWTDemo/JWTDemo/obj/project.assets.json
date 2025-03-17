@@ -8032,11 +8032,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\C# Programs\\JWTDemo\\JWTDemo\\JWTDemo.csproj",
+      "projectUniqueName": "D:\\C# Programs\\C-programs\\JWTDemo\\JWTDemo\\JWTDemo.csproj",
       "projectName": "JWTDemo",
-      "projectPath": "D:\\C# Programs\\JWTDemo\\JWTDemo\\JWTDemo.csproj",
+      "projectPath": "D:\\C# Programs\\C-programs\\JWTDemo\\JWTDemo\\JWTDemo.csproj",
       "packagesPath": "C:\\Users\\DELL\\.nuget\\packages\\",
-      "outputPath": "D:\\C# Programs\\JWTDemo\\JWTDemo\\obj\\",
+      "outputPath": "D:\\C# Programs\\C-programs\\JWTDemo\\JWTDemo\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

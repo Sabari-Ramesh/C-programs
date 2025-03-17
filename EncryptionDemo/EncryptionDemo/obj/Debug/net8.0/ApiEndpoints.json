@@ -1,5 +1,26 @@
 [
   {
+    "ContainingType": "EncryptionDemo.Controllers.AccountController",
+    "Method": "AddAccount",
+    "RelativePath": "addaccount",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "name",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "accountNumber",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
     "ContainingType": "EncryptionDemo.Controllers.UserController",
     "Method": "AddUser",
     "RelativePath": "api/User",

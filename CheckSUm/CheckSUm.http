@@ -1,0 +1,6 @@
+@CheckSUm_HostAddress = http://localhost:5244
+
+GET {{CheckSUm_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

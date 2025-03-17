@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "twtf8XAOvXqPLHYNn599S795B+AD2OjzEpbfyC6qBXo=",
+  "Source": "RoleBasedJWT",
+  "BasePath": "_content/RoleBasedJWT",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

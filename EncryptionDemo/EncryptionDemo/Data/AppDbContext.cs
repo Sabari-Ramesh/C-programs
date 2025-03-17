@@ -9,5 +9,6 @@ namespace EncryptionDemo.Data
         {
         }
         public DbSet<User> Users { get; set; }
+        public DbSet<AccountDetails> Accounts { get; set; }
     }
 }

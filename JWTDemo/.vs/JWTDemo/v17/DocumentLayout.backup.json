@@ -1,58 +1,62 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\C# Programs\\JWTDemo\\",
+  "WorkspaceRootPath": "D:\\C# Programs\\C-programs\\JWTDemo\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D9BF864A-D7AB-4CB5-A310-9B513DAD95C5}|JWTDemo\\JWTDemo.csproj|d:\\c# programs\\jwtdemo\\jwtdemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D9BF864A-D7AB-4CB5-A310-9B513DAD95C5}|JWTDemo\\JWTDemo.csproj|solutionrelative:jwtdemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D9BF864A-D7AB-4CB5-A310-9B513DAD95C5}|JWTDemo\\JWTDemo.csproj|d:\\c# programs\\c-programs\\jwtdemo\\jwtdemo\\migrations\\20250312070136_create.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9BF864A-D7AB-4CB5-A310-9B513DAD95C5}|JWTDemo\\JWTDemo.csproj|solutionrelative:jwtdemo\\migrations\\20250312070136_create.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D9BF864A-D7AB-4CB5-A310-9B513DAD95C5}|JWTDemo\\JWTDemo.csproj|d:\\c# programs\\jwtdemo\\jwtdemo\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D9BF864A-D7AB-4CB5-A310-9B513DAD95C5}|JWTDemo\\JWTDemo.csproj|solutionrelative:jwtdemo\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D9BF864A-D7AB-4CB5-A310-9B513DAD95C5}|JWTDemo\\JWTDemo.csproj|d:\\c# programs\\jwtdemo\\jwtdemo\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D9BF864A-D7AB-4CB5-A310-9B513DAD95C5}|JWTDemo\\JWTDemo.csproj|solutionrelative:jwtdemo\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D9BF864A-D7AB-4CB5-A310-9B513DAD95C5}|JWTDemo\\JWTDemo.csproj|d:\\c# programs\\jwtdemo\\jwtdemo\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D9BF864A-D7AB-4CB5-A310-9B513DAD95C5}|JWTDemo\\JWTDemo.csproj|solutionrelative:jwtdemo\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D9BF864A-D7AB-4CB5-A310-9B513DAD95C5}|JWTDemo\\JWTDemo.csproj|d:\\c# programs\\jwtdemo\\jwtdemo\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{D9BF864A-D7AB-4CB5-A310-9B513DAD95C5}|JWTDemo\\JWTDemo.csproj|solutionrelative:jwtdemo\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D9BF864A-D7AB-4CB5-A310-9B513DAD95C5}|JWTDemo\\JWTDemo.csproj|d:\\c# programs\\jwtdemo\\jwtdemo\\migrations\\appdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D9BF864A-D7AB-4CB5-A310-9B513DAD95C5}|JWTDemo\\JWTDemo.csproj|solutionrelative:jwtdemo\\migrations\\appdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D9BF864A-D7AB-4CB5-A310-9B513DAD95C5}|JWTDemo\\JWTDemo.csproj|d:\\c# programs\\jwtdemo\\jwtdemo\\migrations\\20250213164135_init-migration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D9BF864A-D7AB-4CB5-A310-9B513DAD95C5}|JWTDemo\\JWTDemo.csproj|solutionrelative:jwtdemo\\migrations\\20250213164135_init-migration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D9BF864A-D7AB-4CB5-A310-9B513DAD95C5}|JWTDemo\\JWTDemo.csproj|d:\\c# programs\\jwtdemo\\jwtdemo\\model\\registeruser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D9BF864A-D7AB-4CB5-A310-9B513DAD95C5}|JWTDemo\\JWTDemo.csproj|solutionrelative:jwtdemo\\model\\registeruser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D9BF864A-D7AB-4CB5-A310-9B513DAD95C5}|JWTDemo\\JWTDemo.csproj|d:\\c# programs\\jwtdemo\\jwtdemo\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D9BF864A-D7AB-4CB5-A310-9B513DAD95C5}|JWTDemo\\JWTDemo.csproj|d:\\c# programs\\c-programs\\jwtdemo\\jwtdemo\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D9BF864A-D7AB-4CB5-A310-9B513DAD95C5}|JWTDemo\\JWTDemo.csproj|solutionrelative:jwtdemo\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D9BF864A-D7AB-4CB5-A310-9B513DAD95C5}|JWTDemo\\JWTDemo.csproj|d:\\c# programs\\jwtdemo\\jwtdemo\\jwtdemo.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
-      "RelativeMoniker": "D:0:0:{D9BF864A-D7AB-4CB5-A310-9B513DAD95C5}|JWTDemo\\JWTDemo.csproj|solutionrelative:jwtdemo\\jwtdemo.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+      "AbsoluteMoniker": "D:0:0:{D9BF864A-D7AB-4CB5-A310-9B513DAD95C5}|JWTDemo\\JWTDemo.csproj|d:\\c# programs\\c-programs\\jwtdemo\\jwtdemo\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D9BF864A-D7AB-4CB5-A310-9B513DAD95C5}|JWTDemo\\JWTDemo.csproj|solutionrelative:jwtdemo\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D9BF864A-D7AB-4CB5-A310-9B513DAD95C5}|JWTDemo\\JWTDemo.csproj|d:\\c# programs\\jwtdemo\\jwtdemo\\model\\userrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D9BF864A-D7AB-4CB5-A310-9B513DAD95C5}|JWTDemo\\JWTDemo.csproj|d:\\c# programs\\c-programs\\jwtdemo\\jwtdemo\\model\\userrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D9BF864A-D7AB-4CB5-A310-9B513DAD95C5}|JWTDemo\\JWTDemo.csproj|solutionrelative:jwtdemo\\model\\userrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D9BF864A-D7AB-4CB5-A310-9B513DAD95C5}|JWTDemo\\JWTDemo.csproj|d:\\c# programs\\jwtdemo\\jwtdemo\\model\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D9BF864A-D7AB-4CB5-A310-9B513DAD95C5}|JWTDemo\\JWTDemo.csproj|solutionrelative:jwtdemo\\model\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D9BF864A-D7AB-4CB5-A310-9B513DAD95C5}|JWTDemo\\JWTDemo.csproj|d:\\c# programs\\c-programs\\jwtdemo\\jwtdemo\\model\\registeruser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9BF864A-D7AB-4CB5-A310-9B513DAD95C5}|JWTDemo\\JWTDemo.csproj|solutionrelative:jwtdemo\\model\\registeruser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D9BF864A-D7AB-4CB5-A310-9B513DAD95C5}|JWTDemo\\JWTDemo.csproj|d:\\c# programs\\jwtdemo\\jwtdemo\\jwtdemo.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "AbsoluteMoniker": "D:0:0:{D9BF864A-D7AB-4CB5-A310-9B513DAD95C5}|JWTDemo\\JWTDemo.csproj|d:\\c# programs\\c-programs\\jwtdemo\\jwtdemo\\jwtdemo.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{D9BF864A-D7AB-4CB5-A310-9B513DAD95C5}|JWTDemo\\JWTDemo.csproj|solutionrelative:jwtdemo\\jwtdemo.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9BF864A-D7AB-4CB5-A310-9B513DAD95C5}|JWTDemo\\JWTDemo.csproj|d:\\c# programs\\c-programs\\jwtdemo\\jwtdemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9BF864A-D7AB-4CB5-A310-9B513DAD95C5}|JWTDemo\\JWTDemo.csproj|solutionrelative:jwtdemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9BF864A-D7AB-4CB5-A310-9B513DAD95C5}|JWTDemo\\JWTDemo.csproj|d:\\c# programs\\c-programs\\jwtdemo\\jwtdemo\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9BF864A-D7AB-4CB5-A310-9B513DAD95C5}|JWTDemo\\JWTDemo.csproj|solutionrelative:jwtdemo\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9BF864A-D7AB-4CB5-A310-9B513DAD95C5}|JWTDemo\\JWTDemo.csproj|d:\\c# programs\\c-programs\\jwtdemo\\jwtdemo\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9BF864A-D7AB-4CB5-A310-9B513DAD95C5}|JWTDemo\\JWTDemo.csproj|solutionrelative:jwtdemo\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9BF864A-D7AB-4CB5-A310-9B513DAD95C5}|JWTDemo\\JWTDemo.csproj|d:\\c# programs\\c-programs\\jwtdemo\\jwtdemo\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9BF864A-D7AB-4CB5-A310-9B513DAD95C5}|JWTDemo\\JWTDemo.csproj|solutionrelative:jwtdemo\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9BF864A-D7AB-4CB5-A310-9B513DAD95C5}|JWTDemo\\JWTDemo.csproj|d:\\c# programs\\c-programs\\jwtdemo\\jwtdemo\\migrations\\appdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9BF864A-D7AB-4CB5-A310-9B513DAD95C5}|JWTDemo\\JWTDemo.csproj|solutionrelative:jwtdemo\\migrations\\appdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9BF864A-D7AB-4CB5-A310-9B513DAD95C5}|JWTDemo\\JWTDemo.csproj|d:\\c# programs\\c-programs\\jwtdemo\\jwtdemo\\migrations\\20250213164135_init-migration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9BF864A-D7AB-4CB5-A310-9B513DAD95C5}|JWTDemo\\JWTDemo.csproj|solutionrelative:jwtdemo\\migrations\\20250213164135_init-migration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9BF864A-D7AB-4CB5-A310-9B513DAD95C5}|JWTDemo\\JWTDemo.csproj|d:\\c# programs\\c-programs\\jwtdemo\\jwtdemo\\jwtdemo.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{D9BF864A-D7AB-4CB5-A310-9B513DAD95C5}|JWTDemo\\JWTDemo.csproj|solutionrelative:jwtdemo\\jwtdemo.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9BF864A-D7AB-4CB5-A310-9B513DAD95C5}|JWTDemo\\JWTDemo.csproj|d:\\c# programs\\c-programs\\jwtdemo\\jwtdemo\\model\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9BF864A-D7AB-4CB5-A310-9B513DAD95C5}|JWTDemo\\JWTDemo.csproj|solutionrelative:jwtdemo\\model\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -62,15 +66,90 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 0,
+              "Title": "20250312070136_Create.cs",
+              "DocumentMoniker": "D:\\C# Programs\\C-programs\\JWTDemo\\JWTDemo\\Migrations\\20250312070136_Create.cs",
+              "RelativeDocumentMoniker": "JWTDemo\\Migrations\\20250312070136_Create.cs",
+              "ToolTip": "D:\\C# Programs\\C-programs\\JWTDemo\\JWTDemo\\Migrations\\20250312070136_Create.cs",
+              "RelativeToolTip": "JWTDemo\\Migrations\\20250312070136_Create.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T07:01:36.913Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "JWTDemo.http",
+              "DocumentMoniker": "D:\\C# Programs\\C-programs\\JWTDemo\\JWTDemo\\JWTDemo.http",
+              "RelativeDocumentMoniker": "JWTDemo\\JWTDemo.http",
+              "ToolTip": "D:\\C# Programs\\C-programs\\JWTDemo\\JWTDemo\\JWTDemo.http",
+              "RelativeToolTip": "JWTDemo\\JWTDemo.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-02-13T16:35:55.829Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AdminController.cs",
+              "DocumentMoniker": "D:\\C# Programs\\C-programs\\JWTDemo\\JWTDemo\\Controllers\\AdminController.cs",
+              "RelativeDocumentMoniker": "JWTDemo\\Controllers\\AdminController.cs",
+              "ToolTip": "D:\\C# Programs\\C-programs\\JWTDemo\\JWTDemo\\Controllers\\AdminController.cs",
+              "RelativeToolTip": "JWTDemo\\Controllers\\AdminController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAYAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-13T16:25:49.431Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "D:\\C# Programs\\C-programs\\JWTDemo\\JWTDemo\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "JWTDemo\\Controllers\\UserController.cs",
+              "ToolTip": "D:\\C# Programs\\C-programs\\JWTDemo\\JWTDemo\\Controllers\\UserController.cs",
+              "RelativeToolTip": "JWTDemo\\Controllers\\UserController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-13T16:28:17.439Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "D:\\C# Programs\\C-programs\\JWTDemo\\JWTDemo\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "JWTDemo\\Data\\AppDbContext.cs",
+              "ToolTip": "D:\\C# Programs\\C-programs\\JWTDemo\\JWTDemo\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "JWTDemo\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-13T15:31:26.8Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "JWTDemo.csproj",
+              "DocumentMoniker": "D:\\C# Programs\\C-programs\\JWTDemo\\JWTDemo\\JWTDemo.csproj",
+              "RelativeDocumentMoniker": "JWTDemo\\JWTDemo.csproj",
+              "ToolTip": "D:\\C# Programs\\C-programs\\JWTDemo\\JWTDemo\\JWTDemo.csproj",
+              "RelativeToolTip": "JWTDemo\\JWTDemo.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-02-13T15:18:11.333Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "appsettings.json",
-              "DocumentMoniker": "D:\\C# Programs\\JWTDemo\\JWTDemo\\appsettings.json",
+              "DocumentMoniker": "D:\\C# Programs\\C-programs\\JWTDemo\\JWTDemo\\appsettings.json",
               "RelativeDocumentMoniker": "JWTDemo\\appsettings.json",
-              "ToolTip": "D:\\C# Programs\\JWTDemo\\JWTDemo\\appsettings.json",
+              "ToolTip": "D:\\C# Programs\\C-programs\\JWTDemo\\JWTDemo\\appsettings.json",
               "RelativeToolTip": "JWTDemo\\appsettings.json",
               "ViewState": "AgIAABUAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
@@ -79,87 +158,61 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\C# Programs\\JWTDemo\\JWTDemo\\Program.cs",
-              "RelativeDocumentMoniker": "JWTDemo\\Program.cs",
-              "ToolTip": "D:\\C# Programs\\JWTDemo\\JWTDemo\\Program.cs",
-              "RelativeToolTip": "JWTDemo\\Program.cs",
-              "ViewState": "AgIAABgAAAAAAAAAAAAAACIAAAAjAAAAAAAAAA==",
+              "DocumentIndex": 4,
+              "Title": "RegisterUser.cs",
+              "DocumentMoniker": "D:\\C# Programs\\C-programs\\JWTDemo\\JWTDemo\\Model\\RegisterUser.cs",
+              "RelativeDocumentMoniker": "JWTDemo\\Model\\RegisterUser.cs",
+              "ToolTip": "D:\\C# Programs\\C-programs\\JWTDemo\\JWTDemo\\Model\\RegisterUser.cs",
+              "RelativeToolTip": "JWTDemo\\Model\\RegisterUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-13T14:22:07.729Z",
+              "WhenOpened": "2025-02-13T15:28:25.129Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "AccountController.cs",
-              "DocumentMoniker": "D:\\C# Programs\\JWTDemo\\JWTDemo\\Controllers\\AccountController.cs",
-              "RelativeDocumentMoniker": "JWTDemo\\Controllers\\AccountController.cs",
-              "ToolTip": "D:\\C# Programs\\JWTDemo\\JWTDemo\\Controllers\\AccountController.cs",
-              "RelativeToolTip": "JWTDemo\\Controllers\\AccountController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEwAAAANAAAAAAAAAA==",
+              "Title": "UserRole.cs",
+              "DocumentMoniker": "D:\\C# Programs\\C-programs\\JWTDemo\\JWTDemo\\Model\\UserRole.cs",
+              "RelativeDocumentMoniker": "JWTDemo\\Model\\UserRole.cs",
+              "ToolTip": "D:\\C# Programs\\C-programs\\JWTDemo\\JWTDemo\\Model\\UserRole.cs",
+              "RelativeToolTip": "JWTDemo\\Model\\UserRole.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAA1AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-13T16:11:05.118Z",
+              "WhenOpened": "2025-02-13T15:29:21.148Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 9,
-              "Title": "JWTDemo.http",
-              "DocumentMoniker": "D:\\C# Programs\\JWTDemo\\JWTDemo\\JWTDemo.http",
-              "RelativeDocumentMoniker": "JWTDemo\\JWTDemo.http",
-              "ToolTip": "D:\\C# Programs\\JWTDemo\\JWTDemo\\JWTDemo.http",
-              "RelativeToolTip": "JWTDemo\\JWTDemo.http",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
-              "WhenOpened": "2025-02-13T16:35:55.829Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "AdminController.cs",
-              "DocumentMoniker": "D:\\C# Programs\\JWTDemo\\JWTDemo\\Controllers\\AdminController.cs",
-              "RelativeDocumentMoniker": "JWTDemo\\Controllers\\AdminController.cs",
-              "ToolTip": "D:\\C# Programs\\JWTDemo\\JWTDemo\\Controllers\\AdminController.cs",
-              "RelativeToolTip": "JWTDemo\\Controllers\\AdminController.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAYAAAAgAAAAAAAAAA==",
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "D:\\C# Programs\\C-programs\\JWTDemo\\JWTDemo\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "JWTDemo\\Controllers\\AccountController.cs",
+              "ToolTip": "D:\\C# Programs\\C-programs\\JWTDemo\\JWTDemo\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "JWTDemo\\Controllers\\AccountController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEwAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-13T16:25:49.431Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-13T16:11:05.118Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "UserController.cs",
-              "DocumentMoniker": "D:\\C# Programs\\JWTDemo\\JWTDemo\\Controllers\\UserController.cs",
-              "RelativeDocumentMoniker": "JWTDemo\\Controllers\\UserController.cs",
-              "ToolTip": "D:\\C# Programs\\JWTDemo\\JWTDemo\\Controllers\\UserController.cs",
-              "RelativeToolTip": "JWTDemo\\Controllers\\UserController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAJAAAAAAAAAA==",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\C# Programs\\C-programs\\JWTDemo\\JWTDemo\\Program.cs",
+              "RelativeDocumentMoniker": "JWTDemo\\Program.cs",
+              "ToolTip": "D:\\C# Programs\\C-programs\\JWTDemo\\JWTDemo\\Program.cs",
+              "RelativeToolTip": "JWTDemo\\Program.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAACIAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-13T16:28:17.439Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-13T14:22:07.729Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "AppDbContext.cs",
-              "DocumentMoniker": "D:\\C# Programs\\JWTDemo\\JWTDemo\\Data\\AppDbContext.cs",
-              "RelativeDocumentMoniker": "JWTDemo\\Data\\AppDbContext.cs",
-              "ToolTip": "D:\\C# Programs\\JWTDemo\\JWTDemo\\Data\\AppDbContext.cs",
-              "RelativeToolTip": "JWTDemo\\Data\\AppDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-13T15:31:26.8Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 10,
               "Title": "AppDbContextModelSnapshot.cs",
-              "DocumentMoniker": "D:\\C# Programs\\JWTDemo\\JWTDemo\\Migrations\\AppDbContextModelSnapshot.cs",
+              "DocumentMoniker": "D:\\C# Programs\\C-programs\\JWTDemo\\JWTDemo\\Migrations\\AppDbContextModelSnapshot.cs",
               "RelativeDocumentMoniker": "JWTDemo\\Migrations\\AppDbContextModelSnapshot.cs",
-              "ToolTip": "D:\\C# Programs\\JWTDemo\\JWTDemo\\Migrations\\AppDbContextModelSnapshot.cs",
+              "ToolTip": "D:\\C# Programs\\C-programs\\JWTDemo\\JWTDemo\\Migrations\\AppDbContextModelSnapshot.cs",
               "RelativeToolTip": "JWTDemo\\Migrations\\AppDbContextModelSnapshot.cs",
               "ViewState": "AgIAAAkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -167,23 +220,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "RegisterUser.cs",
-              "DocumentMoniker": "D:\\C# Programs\\JWTDemo\\JWTDemo\\Model\\RegisterUser.cs",
-              "RelativeDocumentMoniker": "JWTDemo\\Model\\RegisterUser.cs",
-              "ToolTip": "D:\\C# Programs\\JWTDemo\\JWTDemo\\Model\\RegisterUser.cs",
-              "RelativeToolTip": "JWTDemo\\Model\\RegisterUser.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAdAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-13T15:28:25.129Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 11,
               "Title": "20250213164135_Init-migration.cs",
-              "DocumentMoniker": "D:\\C# Programs\\JWTDemo\\JWTDemo\\Migrations\\20250213164135_Init-migration.cs",
+              "DocumentMoniker": "D:\\C# Programs\\C-programs\\JWTDemo\\JWTDemo\\Migrations\\20250213164135_Init-migration.cs",
               "RelativeDocumentMoniker": "JWTDemo\\Migrations\\20250213164135_Init-migration.cs",
-              "ToolTip": "D:\\C# Programs\\JWTDemo\\JWTDemo\\Migrations\\20250213164135_Init-migration.cs",
+              "ToolTip": "D:\\C# Programs\\C-programs\\JWTDemo\\JWTDemo\\Migrations\\20250213164135_Init-migration.cs",
               "RelativeToolTip": "JWTDemo\\Migrations\\20250213164135_Init-migration.cs",
               "ViewState": "AgIAAK8AAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -191,39 +232,15 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "UserRole.cs",
-              "DocumentMoniker": "D:\\C# Programs\\JWTDemo\\JWTDemo\\Model\\UserRole.cs",
-              "RelativeDocumentMoniker": "JWTDemo\\Model\\UserRole.cs",
-              "ToolTip": "D:\\C# Programs\\JWTDemo\\JWTDemo\\Model\\UserRole.cs",
-              "RelativeToolTip": "JWTDemo\\Model\\UserRole.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAA1AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-13T15:29:21.148Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 13,
               "Title": "Login.cs",
-              "DocumentMoniker": "D:\\C# Programs\\JWTDemo\\JWTDemo\\Model\\Login.cs",
+              "DocumentMoniker": "D:\\C# Programs\\C-programs\\JWTDemo\\JWTDemo\\Model\\Login.cs",
               "RelativeDocumentMoniker": "JWTDemo\\Model\\Login.cs",
-              "ToolTip": "D:\\C# Programs\\JWTDemo\\JWTDemo\\Model\\Login.cs",
+              "ToolTip": "D:\\C# Programs\\C-programs\\JWTDemo\\JWTDemo\\Model\\Login.cs",
               "RelativeToolTip": "JWTDemo\\Model\\Login.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAA8AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-13T15:26:46.081Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "JWTDemo.csproj",
-              "DocumentMoniker": "D:\\C# Programs\\JWTDemo\\JWTDemo\\JWTDemo.csproj",
-              "RelativeDocumentMoniker": "JWTDemo\\JWTDemo.csproj",
-              "ToolTip": "D:\\C# Programs\\JWTDemo\\JWTDemo\\JWTDemo.csproj",
-              "RelativeToolTip": "JWTDemo\\JWTDemo.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-02-13T15:18:11.333Z"
             }
           ]
         }

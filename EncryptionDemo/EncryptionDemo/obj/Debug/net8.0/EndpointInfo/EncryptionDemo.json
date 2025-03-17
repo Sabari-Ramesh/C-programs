@@ -5,6 +5,34 @@
     "version": "1.0"
   },
   "paths": {
+    "/addaccount": {
+      "post": {
+        "tags": [
+          "Account"
+        ],
+        "parameters": [
+          {
+            "name": "name",
+            "in": "query",
+            "schema": {
+              "type": "string"
+            }
+          },
+          {
+            "name": "accountNumber",
+            "in": "query",
+            "schema": {
+              "type": "string"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
     "/api/User": {
       "post": {
         "tags": [

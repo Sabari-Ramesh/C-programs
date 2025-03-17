@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\C# Programs\\BankApplicationJWT\\BankApplicationJWT\\BankApplicationJWT.csproj": {}
+    "D:\\C# Programs\\C-programs\\BankApplicationJWT\\BankApplicationJWT\\BankApplicationJWT.csproj": {}
   },
   "projects": {
-    "D:\\C# Programs\\BankApplicationJWT\\BankApplicationJWT\\BankApplicationJWT.csproj": {
+    "D:\\C# Programs\\C-programs\\BankApplicationJWT\\BankApplicationJWT\\BankApplicationJWT.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\C# Programs\\BankApplicationJWT\\BankApplicationJWT\\BankApplicationJWT.csproj",
+        "projectUniqueName": "D:\\C# Programs\\C-programs\\BankApplicationJWT\\BankApplicationJWT\\BankApplicationJWT.csproj",
         "projectName": "BankApplicationJWT",
-        "projectPath": "D:\\C# Programs\\BankApplicationJWT\\BankApplicationJWT\\BankApplicationJWT.csproj",
+        "projectPath": "D:\\C# Programs\\C-programs\\BankApplicationJWT\\BankApplicationJWT\\BankApplicationJWT.csproj",
         "packagesPath": "C:\\Users\\DELL\\.nuget\\packages\\",
-        "outputPath": "D:\\C# Programs\\BankApplicationJWT\\BankApplicationJWT\\obj\\",
+        "outputPath": "D:\\C# Programs\\C-programs\\BankApplicationJWT\\BankApplicationJWT\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

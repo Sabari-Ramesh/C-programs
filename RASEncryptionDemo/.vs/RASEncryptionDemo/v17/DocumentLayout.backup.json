@@ -3,12 +3,20 @@
   "WorkspaceRootPath": "D:\\C# Programs\\C-programs\\RASEncryptionDemo\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{34EC41AA-88C7-46ED-80ED-0BAA51490CA2}|RASEncryptionDemo\\RASEncryptionDemo.csproj|d:\\c# programs\\c-programs\\rasencryptiondemo\\rasencryptiondemo\\controllers\\encryption.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{34EC41AA-88C7-46ED-80ED-0BAA51490CA2}|RASEncryptionDemo\\RASEncryptionDemo.csproj|solutionrelative:rasencryptiondemo\\controllers\\encryption.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{34EC41AA-88C7-46ED-80ED-0BAA51490CA2}|RASEncryptionDemo\\RASEncryptionDemo.csproj|d:\\c# programs\\c-programs\\rasencryptiondemo\\rasencryptiondemo\\service\\rsaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{34EC41AA-88C7-46ED-80ED-0BAA51490CA2}|RASEncryptionDemo\\RASEncryptionDemo.csproj|solutionrelative:rasencryptiondemo\\service\\rsaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34EC41AA-88C7-46ED-80ED-0BAA51490CA2}|RASEncryptionDemo\\RASEncryptionDemo.csproj|d:\\c# programs\\c-programs\\rasencryptiondemo\\rasencryptiondemo\\keys\\publickey.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{34EC41AA-88C7-46ED-80ED-0BAA51490CA2}|RASEncryptionDemo\\RASEncryptionDemo.csproj|solutionrelative:rasencryptiondemo\\keys\\publickey.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34EC41AA-88C7-46ED-80ED-0BAA51490CA2}|RASEncryptionDemo\\RASEncryptionDemo.csproj|d:\\c# programs\\c-programs\\rasencryptiondemo\\rasencryptiondemo\\keys\\privatekey.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{34EC41AA-88C7-46ED-80ED-0BAA51490CA2}|RASEncryptionDemo\\RASEncryptionDemo.csproj|solutionrelative:rasencryptiondemo\\keys\\privatekey.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34EC41AA-88C7-46ED-80ED-0BAA51490CA2}|RASEncryptionDemo\\RASEncryptionDemo.csproj|d:\\c# programs\\c-programs\\rasencryptiondemo\\rasencryptiondemo\\controllers\\encryption.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34EC41AA-88C7-46ED-80ED-0BAA51490CA2}|RASEncryptionDemo\\RASEncryptionDemo.csproj|solutionrelative:rasencryptiondemo\\controllers\\encryption.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{34EC41AA-88C7-46ED-80ED-0BAA51490CA2}|RASEncryptionDemo\\RASEncryptionDemo.csproj|d:\\c# programs\\c-programs\\rasencryptiondemo\\rasencryptiondemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -30,7 +38,31 @@
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "publicKey.xml",
+              "DocumentMoniker": "D:\\C# Programs\\C-programs\\RASEncryptionDemo\\RASEncryptionDemo\\Keys\\publicKey.xml",
+              "RelativeDocumentMoniker": "RASEncryptionDemo\\Keys\\publicKey.xml",
+              "ToolTip": "D:\\C# Programs\\C-programs\\RASEncryptionDemo\\RASEncryptionDemo\\Keys\\publicKey.xml",
+              "RelativeToolTip": "RASEncryptionDemo\\Keys\\publicKey.xml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
+              "WhenOpened": "2025-03-05T10:46:52.993Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "privateKey.xml",
+              "DocumentMoniker": "D:\\C# Programs\\C-programs\\RASEncryptionDemo\\RASEncryptionDemo\\Keys\\privateKey.xml",
+              "RelativeDocumentMoniker": "RASEncryptionDemo\\Keys\\privateKey.xml",
+              "ToolTip": "D:\\C# Programs\\C-programs\\RASEncryptionDemo\\RASEncryptionDemo\\Keys\\privateKey.xml",
+              "RelativeToolTip": "RASEncryptionDemo\\Keys\\privateKey.xml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
+              "WhenOpened": "2025-03-05T10:46:41.999Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\C# Programs\\C-programs\\RASEncryptionDemo\\RASEncryptionDemo\\Program.cs",
               "RelativeDocumentMoniker": "RASEncryptionDemo\\Program.cs",
@@ -38,47 +70,44 @@
               "RelativeToolTip": "RASEncryptionDemo\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-05T10:44:19.444Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-05T10:44:19.444Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "RSAService.cs",
               "DocumentMoniker": "D:\\C# Programs\\C-programs\\RASEncryptionDemo\\RASEncryptionDemo\\Service\\RSAService.cs",
               "RelativeDocumentMoniker": "RASEncryptionDemo\\Service\\RSAService.cs",
               "ToolTip": "D:\\C# Programs\\C-programs\\RASEncryptionDemo\\RASEncryptionDemo\\Service\\RSAService.cs",
               "RelativeToolTip": "RASEncryptionDemo\\Service\\RSAService.cs",
-              "ViewState": "AgIAACwAAAAAAAAAAAAgwDcAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-05T10:43:40.877Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "RASEncryptionDemo",
+              "DocumentIndex": 5,
+              "Title": "RASEncryptionDemo.csproj",
               "DocumentMoniker": "D:\\C# Programs\\C-programs\\RASEncryptionDemo\\RASEncryptionDemo\\RASEncryptionDemo.csproj",
               "RelativeDocumentMoniker": "RASEncryptionDemo\\RASEncryptionDemo.csproj",
               "ToolTip": "D:\\C# Programs\\C-programs\\RASEncryptionDemo\\RASEncryptionDemo\\RASEncryptionDemo.csproj",
               "RelativeToolTip": "RASEncryptionDemo\\RASEncryptionDemo.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-03-05T10:42:10.738Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-05T10:42:10.738Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "Encryption.cs",
               "DocumentMoniker": "D:\\C# Programs\\C-programs\\RASEncryptionDemo\\RASEncryptionDemo\\Controllers\\Encryption.cs",
               "RelativeDocumentMoniker": "RASEncryptionDemo\\Controllers\\Encryption.cs",
-              "ToolTip": "D:\\C# Programs\\C-programs\\RASEncryptionDemo\\RASEncryptionDemo\\Controllers\\Encryption.cs*",
-              "RelativeToolTip": "RASEncryptionDemo\\Controllers\\Encryption.cs*",
+              "ToolTip": "D:\\C# Programs\\C-programs\\RASEncryptionDemo\\RASEncryptionDemo\\Controllers\\Encryption.cs",
+              "RelativeToolTip": "RASEncryptionDemo\\Controllers\\Encryption.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-05T10:40:00.618Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-05T10:40:00.618Z"
             }
           ]
         }
