@@ -1,4 +1,6 @@
-﻿using Microsoft.IdentityModel.Tokens;
+﻿
+/*
+using Microsoft.IdentityModel.Tokens;
 using System.IdentityModel.Tokens.Jwt;
 using System.Security.Claims;
 using System.Text;
@@ -47,7 +49,7 @@ namespace RoleBasedJWT.Middleware
                                 }, out SecurityToken validatedToken);
 
                                 context.User = principal;
-                              //  context.Request.Headers.Append("Authorization", $"Bearer {token}");
+                    //  context.Request.Headers.Append("Authorization", $"Bearer {token}");
                              }
                             catch (Exception ex)
                             {
@@ -63,8 +65,11 @@ namespace RoleBasedJWT.Middleware
 }
 
 
+*/
 
 
+
+//=====================================================================
 
 /* private readonly RequestDelegate _next;
 

@@ -2,7 +2,7 @@ using Microsoft.EntityFrameworkCore;
 using RoleBasedJWT.Data;
 using RoleBasedJWT.Extensions;
 using RoleBasedJWT.Helper;
-using RoleBasedJWT.Middleware;
+//using RoleBasedJWT.Middleware;
 using RoleBasedJWT.Repository;
 using RoleBasedJWT.Service;
 
@@ -50,7 +50,7 @@ namespace RoleBasedJWT
 
             app.UseHttpsRedirection();
 
-            app.UseMiddleware<JwtMiddleware>();
+         //   app.UseMiddleware<JwtMiddleware>();
             app.UseAuthentication(); // Enable JWT Authentication
             app.UseAuthorization();
 

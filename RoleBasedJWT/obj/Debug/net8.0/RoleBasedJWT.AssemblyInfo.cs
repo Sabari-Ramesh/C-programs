@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("RoleBasedJWT")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f4f2dfdc3a926dd3f25b0e575bb3721e3e5899b4")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+cec4f50bb16b1aa35b8a00482780719ab6dc0a49")]
 [assembly: System.Reflection.AssemblyProductAttribute("RoleBasedJWT")]
 [assembly: System.Reflection.AssemblyTitleAttribute("RoleBasedJWT")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
